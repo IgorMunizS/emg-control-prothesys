@@ -1,0 +1,971 @@
+missing module named 'win32com.gen_py' - imported by win32com, c:\users\-igormuniz-\appdata\local\programs\python\python35-32\lib\site-packages\PyInstaller\loader\rthooks\pyi_rth_win32comgenpy.py
+missing module named sys.exc_info - imported by sys, win32com.server.dispatcher
+missing module named pywintypes.IIDType - imported by pywintypes, win32com.client.dynamic
+missing module named win32com.client._get_good_object_ - imported by win32com.client, win32com.client.util
+missing module named win32com.client.Dispatch - imported by win32com.client, win32com.client.util, win32com.client.makepy
+missing module named pywintypes.TimeType - imported by pywintypes, win32com.client.build
+missing module named pythoncom.DISPATCH_PROPERTYGET - imported by pythoncom, win32com.server.policy
+missing module named pythoncom.DISPID_UNKNOWN - imported by pythoncom, win32com.server.policy
+missing module named pythoncom.DISPATCH_PROPERTYPUTREF - imported by pythoncom, win32com.server.policy
+missing module named pythoncom.DISPATCH_METHOD - imported by pythoncom, win32com.server.policy
+missing module named pythoncom.DISPID_PROPERTYPUT - imported by pythoncom, win32com.server.policy
+missing module named pythoncom.DISPATCH_PROPERTYPUT - imported by pythoncom, win32com.server.policy
+missing module named pythoncom.DISPID_CONSTRUCTOR - imported by pythoncom, win32com.server.policy
+missing module named pythoncom.DISPID_EVALUATE - imported by pythoncom, win32com.server.policy
+missing module named pythoncom.DISPID_STARTENUM - imported by pythoncom, win32com.server.policy
+missing module named pythoncom.DISPID_DESTRUCTOR - imported by pythoncom, win32com.server.policy
+missing module named pythoncom.DISPID_VALUE - imported by pythoncom, win32com.server.policy
+missing module named pythoncom.DISPID_NEWENUM - imported by pythoncom, win32com.server.policy
+missing module named pythoncom.DISPID_COLLECT - imported by pythoncom, win32com.server.policy
+missing module named pyimod03_importers.FrozenImporter - imported by pyimod03_importers, c:\users\-igormuniz-\appdata\local\programs\python\python35-32\lib\site-packages\PyInstaller\loader\rthooks\pyi_rth_pkgres.py
+missing module named pyimod03_importers - imported by c:\users\-igormuniz-\appdata\local\programs\python\python35-32\lib\site-packages\PyInstaller\loader\rthooks\pyi_rth_pkgres.py
+missing module named __builtin__ - imported by numpy.core.numerictypes, numpy.core.numeric, numpy.lib._iotools, numpy.distutils.misc_util, numpy, pyparsing, pyqtgraph.multiprocess.remoteproxy, pkg_resources._vendor.pyparsing
+missing module named __builtin__.str - imported by __builtin__, numpy.core.numerictypes, numpy.lib._iotools, numpy
+missing module named __builtin__.int - imported by __builtin__, numpy.core.numerictypes, numpy.lib._iotools, numpy
+missing module named __builtin__.object - imported by __builtin__, numpy.core.numerictypes, numpy.lib._iotools, numpy
+missing module named __builtin__.bool - imported by __builtin__, numpy.core.numerictypes, numpy.lib._iotools, numpy
+missing module named __builtin__.complex - imported by __builtin__, numpy.core.numerictypes, numpy.lib._iotools, numpy
+missing module named __builtin__.unicode - imported by __builtin__, numpy.core.numerictypes, numpy.lib._iotools, numpy
+missing module named __builtin__.float - imported by __builtin__, numpy.core.numerictypes, numpy.lib._iotools, numpy
+missing module named StringIO - imported by numpy.lib.utils, numpy.testing.utils, numpy.lib.format, PyQt4.uic.port_v2.string_io, matplotlib.externals.six, six, pkg_resources._vendor.six
+missing module named StringIO.StringIO - imported by StringIO, numpy.lib.utils, numpy.testing.utils, numpy.lib.format, PyQt4.uic.port_v2.string_io
+missing module named 'pkg_resources.extern.pyparsing'.Literal - imported by 'pkg_resources.extern.pyparsing', pkg_resources._vendor.packaging.requirements, pkg_resources._vendor.packaging.markers
+missing module named 'pkg_resources.extern.pyparsing'.Forward - imported by 'pkg_resources.extern.pyparsing', pkg_resources._vendor.packaging.markers
+missing module named 'pkg_resources.extern.pyparsing'.Group - imported by 'pkg_resources.extern.pyparsing', pkg_resources._vendor.packaging.markers
+missing module named 'pkg_resources.extern.pyparsing'.ZeroOrMore - imported by 'pkg_resources.extern.pyparsing', pkg_resources._vendor.packaging.requirements, pkg_resources._vendor.packaging.markers
+missing module named 'pkg_resources.extern.pyparsing'.QuotedString - imported by 'pkg_resources.extern.pyparsing', pkg_resources._vendor.packaging.markers
+missing module named 'pkg_resources.extern.pyparsing'.ParseResults - imported by 'pkg_resources.extern.pyparsing', pkg_resources._vendor.packaging.markers
+missing module named 'pkg_resources.extern.pyparsing'.stringEnd - imported by 'pkg_resources.extern.pyparsing', pkg_resources._vendor.packaging.requirements, pkg_resources._vendor.packaging.markers
+missing module named 'pkg_resources.extern.pyparsing'.stringStart - imported by 'pkg_resources.extern.pyparsing', pkg_resources._vendor.packaging.requirements, pkg_resources._vendor.packaging.markers
+missing module named 'pkg_resources.extern.pyparsing'.ParseException - imported by 'pkg_resources.extern.pyparsing', pkg_resources._vendor.packaging.requirements, pkg_resources._vendor.packaging.markers
+missing module named 'pkg_resources.extern.pyparsing' - imported by pkg_resources._vendor.packaging.requirements, pkg_resources._vendor.packaging.markers
+missing module named 'pkg_resources.extern.pyparsing'.Regex - imported by 'pkg_resources.extern.pyparsing', pkg_resources._vendor.packaging.requirements
+missing module named 'pkg_resources.extern.pyparsing'.Combine - imported by 'pkg_resources.extern.pyparsing', pkg_resources._vendor.packaging.requirements
+missing module named 'pkg_resources.extern.pyparsing'.Optional - imported by 'pkg_resources.extern.pyparsing', pkg_resources._vendor.packaging.requirements
+missing module named 'pkg_resources.extern.pyparsing'.Word - imported by 'pkg_resources.extern.pyparsing', pkg_resources._vendor.packaging.requirements
+missing module named 'pkg_resources.extern.pyparsing'.originalTextFor - imported by 'pkg_resources.extern.pyparsing', pkg_resources._vendor.packaging.requirements
+missing module named 'pkg_resources.extern.six.moves'.parse - imported by 'pkg_resources.extern.six.moves', pkg_resources._vendor.packaging.requirements
+missing module named __main__.__requires__ - imported by __main__, pkg_resources
+missing module named __main__ - imported by pkg_resources
+missing module named distutils.util.convert_path - imported by distutils.util, distutils.filelist, setuptools, setuptools.command.easy_install, distutils.command.install, distutils.command.build_scripts, setuptools.command.setopt, setuptools.command.egg_info, distutils.command.sdist, distutils.command.install_data, distutils.command.build_py, setuptools.command.develop
+missing module named ntpath.exists - imported by ntpath, distutils.file_util
+missing module named ntpath.isfile - imported by ntpath, distutils.file_util
+missing module named multiprocessing.SimpleQueue - imported by multiprocessing, concurrent.futures.process
+missing module named _multiprocessing.sem_unlink - imported by _multiprocessing, multiprocessing.synchronize
+missing module named _multiprocessing.SemLock - imported by _multiprocessing, multiprocessing.synchronize
+missing module named multiprocessing.get_start_method - imported by multiprocessing, multiprocessing.spawn
+missing module named multiprocessing.set_start_method - imported by multiprocessing, multiprocessing.spawn
+missing module named array.array - imported by array, setuptools.depends
+missing module named multiprocessing.pool.ThreadPool - imported by multiprocessing.pool, multiprocessing.dummy
+missing module named multiprocessing.TimeoutError - imported by multiprocessing, multiprocessing.pool
+missing module named multiprocessing.get_context - imported by multiprocessing, multiprocessing.pool, multiprocessing.managers, multiprocessing.sharedctypes
+missing module named _operator._compare_digest - imported by _operator, hmac
+missing module named _winapi.WAIT_TIMEOUT - imported by _winapi, multiprocessing.connection
+missing module named _winapi.WAIT_OBJECT_0 - imported by _winapi, multiprocessing.connection
+missing module named _winapi.INFINITE - imported by _winapi, multiprocessing.connection
+missing module named _winapi.WAIT_ABANDONED_0 - imported by _winapi, multiprocessing.connection
+missing module named multiprocessing.connection.Listener - imported by multiprocessing.connection, multiprocessing.resource_sharer
+missing module named multiprocessing.connection.Client - imported by multiprocessing.connection, multiprocessing.resource_sharer
+missing module named multiprocessing.AuthenticationError - imported by multiprocessing, multiprocessing.connection
+missing module named multiprocessing.BufferTooShort - imported by multiprocessing, multiprocessing.connection
+missing module named multiprocessing.context.get_spawning_popen - imported by multiprocessing.context, multiprocessing.process
+missing module named multiprocessing.context.assert_spawning - imported by multiprocessing.context, multiprocessing.sharedctypes
+missing module named time.time - imported by time, multiprocessing.managers, multiprocessing.synchronize
+missing module named distutils.ccompiler.LinkError - imported by distutils.ccompiler, distutils.command.config, numpy.distutils.command.config
+missing module named distutils.ccompiler.CompileError - imported by distutils.ccompiler, distutils.command.config, numpy.distutils.command.config
+missing module named _sysconfigdata.build_time_vars - imported by _sysconfigdata, sysconfig
+missing module named _sysconfigdata - imported by sysconfig
+missing module named pkg_resources.extern.packaging - imported by pkg_resources.extern, pkg_resources, setuptools.dist, setuptools.command.egg_info
+missing module named os.open - imported by os, pkg_resources
+missing module named os.rename - imported by os, pkg_resources
+missing module named os.mkdir - imported by os, pkg_resources
+missing module named os.unlink - imported by os, pkg_resources
+missing module named os.utime - imported by os, pkg_resources
+missing module named 'pkg_resources.extern.six.moves'.filter - imported by 'pkg_resources.extern.six.moves', pkg_resources
+missing module named 'pkg_resources.extern.six.moves'.urllib - imported by 'pkg_resources.extern.six.moves', pkg_resources
+missing module named 'pkg_resources.extern.six.moves'.map - imported by 'pkg_resources.extern.six.moves', pkg_resources
+missing module named 'pkg_resources.extern.six.moves' - imported by pkg_resources, pkg_resources._vendor.packaging.requirements
+missing module named pkg_resources.extern.six - imported by pkg_resources.extern, pkg_resources
+missing module named PyQt4.QtCore.QCoreApplication - imported by PyQt4.QtCore, c:\users\-igormuniz-\appdata\local\programs\python\python35-32\lib\site-packages\PyInstaller\loader\rthooks\pyi_rth_qt4plugins.py
+missing module named PyQt4.QtCore.PYQT_VERSION_STR - imported by PyQt4.QtCore, PyQt4.uic
+missing module named PyQt4.uic.port_v2.load_plugin.load_plugin - imported by PyQt4.uic.port_v2.load_plugin, PyQt4.uic.objcreator
+invalid module named PyQt4.uic.port_v2.load_plugin - imported by PyQt4.uic.objcreator
+missing module named 'PyQt4.uic.port_v2'.ascii_upper - imported by 'PyQt4.uic.port_v2', PyQt4.uic.properties
+missing module named 'PyQt4.uic.port_v2' - imported by PyQt4.uic.properties
+missing module named 'PyQt4.elementtree'.SubElement - imported by 'PyQt4.elementtree', PyQt4.uic.uiparser
+missing module named 'PyQt4.elementtree'.parse - imported by 'PyQt4.elementtree', PyQt4.uic.uiparser
+missing module named 'PyQt4.elementtree' - imported by PyQt4.uic.uiparser
+missing module named elementtree.SubElement - imported by elementtree, PyQt4.uic.uiparser
+missing module named elementtree.parse - imported by elementtree, PyQt4.uic.uiparser
+missing module named elementtree - imported by PyQt4.uic.uiparser
+missing module named cStringIO.StringIO - imported by cStringIO, PyQt4.uic.port_v2.string_io, pytz.tzfile
+missing module named cStringIO - imported by cPickle, PyQt4.uic.port_v2.string_io, pytz.tzfile
+missing module named copy_reg - imported by cPickle, cStringIO, numpy.core
+missing module named sets.Set - imported by sets, numpy.distutils.misc_util, numpy.distutils.fcompiler, numpy.distutils.command.build_ext, PyQt4.uic.Compiler.qobjectcreator, matplotlib.transforms, pytz.tzinfo, matplotlib.font_manager, matplotlib.mathtext, matplotlib.backends.backend_ps
+missing module named sets - imported by numpy.distutils.misc_util, numpy.distutils.fcompiler, numpy.distutils.command.build_ext, PyQt4.uic.Compiler.qobjectcreator, matplotlib.transforms, pytz.tzinfo, matplotlib.font_manager, matplotlib.mathtext, matplotlib.backends.backend_ps
+missing module named PyQt4.uic.Compiler.qtproxies.LiteralProxyClass - imported by PyQt4.uic.Compiler.qtproxies, PyQt4.uic.Compiler.proxy_metaclass
+missing module named PySide.QtCore.QCoreApplication - imported by PySide.QtCore, c:\users\-igormuniz-\appdata\local\programs\python\python35-32\lib\site-packages\PyInstaller\loader\rthooks\pyi_rth_qt4plugins.py
+missing module named PySide.QtCore - imported by PySide, pyqtgraph.Qt, matplotlib.backends.qt_compat, pyqtgraph.graphicsItems.ViewBox.axisCtrlTemplate_pyside, pyqtgraph.graphicsItems.PlotItem.plotConfigTemplate_pyside, pyqtgraph.GraphicsScene.exportDialogTemplate_pyside, pyqtgraph.imageview.ImageViewTemplate_pyside, pyqtgraph.console.template_pyside, c:\users\-igormuniz-\appdata\local\programs\python\python35-32\lib\site-packages\PyInstaller\loader\rthooks\pyi_rth_qt4plugins.py
+missing module named PySide - imported by pyqtgraph.Qt, matplotlib.backends.qt_compat, pyqtgraph.graphicsItems.ViewBox.axisCtrlTemplate_pyside, pyqtgraph.graphicsItems.PlotItem.plotConfigTemplate_pyside, pyqtgraph.GraphicsScene.exportDialogTemplate_pyside, pyqtgraph.imageview.ImageViewTemplate_pyside, pyqtgraph.console.template_pyside, PySide.QtCore
+missing module named PySide.__version_info__ - imported by PySide, matplotlib.backends.qt_compat
+missing module named PySide.__version__ - imported by PySide, matplotlib.backends.qt_compat
+missing module named PySide.shiboken - imported by PySide, pyqtgraph.Qt
+missing module named PySide.QtTest - imported by PySide, pyqtgraph.Qt
+missing module named PySide.QtSvg - imported by PySide, pyqtgraph.Qt
+missing module named PySide.QtGui - imported by PySide, pyqtgraph.Qt, matplotlib.backends.qt_compat, pyqtgraph.graphicsItems.ViewBox.axisCtrlTemplate_pyside, pyqtgraph.graphicsItems.PlotItem.plotConfigTemplate_pyside, pyqtgraph.GraphicsScene.exportDialogTemplate_pyside, pyqtgraph.imageview.ImageViewTemplate_pyside, pyqtgraph.console.template_pyside
+missing module named PySide.QtOpenGL - imported by PySide, pyqtgraph.Qt
+missing module named resource - imported by posix, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named posix - imported by os, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _posixsubprocess - imported by subprocess, multiprocessing.util, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _datetime.__doc__ - imported by _datetime, datetime, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _heapq._heapreplace_max - imported by _heapq, heapq, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _heapq._heapify_max - imported by _heapq, heapq, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _heapq._heappop_max - imported by _heapq, heapq, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _sre.MAXGROUPS - imported by _sre, sre_constants, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _sre.MAXREPEAT - imported by _sre, sre_constants, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _operator.__doc__ - imported by _operator, operator, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named unicodedata.ucd_3_2_0 - imported by unicodedata, stringprep, encodings.idna, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _io.FileIO - imported by _io, io, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _io.BytesIO - imported by _io, io, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _io.UnsupportedOperation - imported by _io, io, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _io.BufferedRWPair - imported by _io, io, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _io.TextIOWrapper - imported by _io, io, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _io.IncrementalNewlineDecoder - imported by _io, io, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _io.DEFAULT_BUFFER_SIZE - imported by _io, io, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _io.BufferedRandom - imported by _io, io, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _io.open - imported by _io, io, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _io.BlockingIOError - imported by _io, io, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _io.BufferedWriter - imported by _io, io, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _io.StringIO - imported by _io, io, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _io.BufferedReader - imported by _io, io, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _functools.reduce - imported by _functools, functools, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _functools.cmp_to_key - imported by _functools, functools, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _functools.partial - imported by _functools, functools, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _functools._lru_cache_wrapper - imported by _functools, functools, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _weakref.ref - imported by _weakref, _weakrefset, weakref, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _weakref.ProxyType - imported by _weakref, weakref, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _weakref.getweakrefcount - imported by _weakref, weakref, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _weakref.ReferenceType - imported by _weakref, weakref, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _weakref.getweakrefs - imported by _weakref, weakref, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _weakref.CallableProxyType - imported by _weakref, weakref, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _weakref.proxy - imported by _weakref, weakref, collections, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named 'org.python' - imported by pickle, setuptools.sandbox, xml.sax, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named 'org.python'.imp - imported by 'org.python', xml.sax
+missing module named 'org.python'.PyStringMap - imported by 'org.python', pickle, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _pickle.load - imported by _pickle, pickle, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _pickle.Unpickler - imported by _pickle, pickle, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _pickle.dumps - imported by _pickle, pickle, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _pickle.dump - imported by _pickle, pickle, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _pickle.PicklingError - imported by _pickle, pickle, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _pickle.Pickler - imported by _pickle, pickle, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _pickle.UnpicklingError - imported by _pickle, pickle, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _pickle.loads - imported by _pickle, pickle, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _pickle.PickleError - imported by _pickle, pickle, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named posix._exit - imported by posix, os, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named posix._have_functions - imported by posix, os, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named ce - imported by os, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named ce._exit - imported by ce, os, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named ce._have_functions - imported by ce, os, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named os.chmod - imported by os, setuptools.command.easy_install
+missing module named inspect.CO_GENERATOR - imported by inspect, bdb, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _opcode.stack_effect - imported by _opcode, opcode, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named dis.EXTENDED_ARG - imported by dis, setuptools.depends
+missing module named dis.HAVE_ARGUMENT - imported by dis, setuptools.depends
+missing module named readline - imported by cmd, code, pdb, pstats, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _imp._fix_co_filename - imported by _imp, imp, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _imp.is_builtin - imported by _imp, imp, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _imp.acquire_lock - imported by _imp, imp, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _imp.lock_held - imported by _imp, imp, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _imp.init_frozen - imported by _imp, imp, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _imp.is_frozen - imported by _imp, imp, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _imp.get_frozen_object - imported by _imp, imp, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _imp.is_frozen_package - imported by _imp, imp, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _imp.release_lock - imported by _imp, imp, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _imp.create_dynamic - imported by _imp, imp, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named zipimport.zipimporter - imported by zipimport, pkgutil, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _ctypes.Array - imported by _ctypes, ctypes, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _ctypes.Union - imported by _ctypes, ctypes, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _ctypes.Structure - imported by _ctypes, ctypes, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _ctypes._Pointer - imported by _ctypes, ctypes, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _ctypes.CFuncPtr - imported by _ctypes, ctypes, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _ctypes.__version__ - imported by _ctypes, ctypes, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _ctypes.RTLD_GLOBAL - imported by _ctypes, ctypes, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _ctypes.RTLD_LOCAL - imported by _ctypes, ctypes, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _ctypes.ArgumentError - imported by _ctypes, ctypes, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _ctypes.FormatError - imported by _ctypes, ctypes, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _ctypes.FUNCFLAG_USE_ERRNO - imported by _ctypes, ctypes, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _ctypes.FUNCFLAG_PYTHONAPI - imported by _ctypes, ctypes, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _ctypes.FUNCFLAG_USE_LASTERROR - imported by _ctypes, ctypes, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _ctypes.FUNCFLAG_CDECL - imported by _ctypes, ctypes, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _ctypes.LoadLibrary - imported by _ctypes, ctypes, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _ctypes.FUNCFLAG_STDCALL - imported by _ctypes, ctypes, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _ctypes.dlopen - imported by _ctypes, ctypes, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _ctypes.byref - imported by _ctypes, ctypes, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _ctypes.sizeof - imported by _ctypes, ctypes, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _ctypes.alignment - imported by _ctypes, ctypes, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _ctypes.resize - imported by _ctypes, ctypes, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _ctypes.addressof - imported by _ctypes, ctypes, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _ctypes.get_errno - imported by _ctypes, ctypes, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _ctypes.set_errno - imported by _ctypes, ctypes, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _ctypes._SimpleCData - imported by _ctypes, ctypes, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _ctypes.POINTER - imported by _ctypes, ctypes, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _ctypes._pointer_type_cache - imported by _ctypes, ctypes, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _ctypes._check_HRESULT - imported by _ctypes, ctypes, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _ctypes.get_last_error - imported by _ctypes, ctypes, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _ctypes.set_last_error - imported by _ctypes, ctypes, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _ctypes._memmove_addr - imported by _ctypes, ctypes, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _ctypes._cast_addr - imported by _ctypes, ctypes, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _ctypes._memset_addr - imported by _ctypes, ctypes, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _ctypes._string_at_addr - imported by _ctypes, ctypes, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _ctypes._wstring_at_addr - imported by _ctypes, ctypes, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _winreg - imported by platform, numpy.distutils.cpuinfo, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _winreg.QueryValueEx - imported by _winreg, platform, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _winreg.HKEY_LOCAL_MACHINE - imported by _winreg, platform, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _winreg.CloseKey - imported by _winreg, platform, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _winreg.OpenKeyEx - imported by _winreg, platform, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _scproxy._get_proxies - imported by _scproxy, urllib.request
+missing module named _scproxy._get_proxy_settings - imported by _scproxy, urllib.request
+missing module named _scproxy - imported by urllib.request
+missing module named 'java.lang'.Exception - imported by 'java.lang', xml.sax._exceptions
+missing module named xml.parsers.expat.ParserCreate - imported by xml.parsers.expat, plistlib, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named java - imported by platform, unittest.mock, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named java.System - imported by java, platform, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named 'java.lang' - imported by platform, xml.sax._exceptions, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named vms_lib - imported by platform, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _winapi.STD_OUTPUT_HANDLE - imported by _winapi, subprocess, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _winapi.STARTF_USESTDHANDLES - imported by _winapi, subprocess, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _winapi.STD_INPUT_HANDLE - imported by _winapi, subprocess, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _winapi.STD_ERROR_HANDLE - imported by _winapi, subprocess, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _winapi.SW_HIDE - imported by _winapi, subprocess, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _winapi.STARTF_USESHOWWINDOW - imported by _winapi, subprocess, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _winapi.CREATE_NEW_CONSOLE - imported by _winapi, subprocess, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _winapi.CREATE_NEW_PROCESS_GROUP - imported by _winapi, subprocess, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named termios - imported by tty, getpass, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _ssl.OPENSSL_VERSION_INFO - imported by _ssl, ssl, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _ssl.OPENSSL_VERSION_NUMBER - imported by _ssl, ssl, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _ssl.OPENSSL_VERSION - imported by _ssl, ssl, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _ssl._SSLContext - imported by _ssl, ssl, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _ssl.MemoryBIO - imported by _ssl, ssl, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _ssl.SSLWantWriteError - imported by _ssl, ssl, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _ssl.SSLWantReadError - imported by _ssl, ssl, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _ssl.SSLZeroReturnError - imported by _ssl, ssl, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _ssl.SSLSyscallError - imported by _ssl, ssl, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _ssl.SSLEOFError - imported by _ssl, ssl, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _ssl.SSLError - imported by _ssl, ssl, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _ssl.CERT_NONE - imported by _ssl, ssl, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _ssl.CERT_OPTIONAL - imported by _ssl, ssl, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _ssl.CERT_REQUIRED - imported by _ssl, ssl, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _ssl.nid2obj - imported by _ssl, ssl, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _ssl.txt2obj - imported by _ssl, ssl, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _ssl.RAND_pseudo_bytes - imported by _ssl, ssl, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _ssl.RAND_bytes - imported by _ssl, ssl, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _ssl.RAND_add - imported by _ssl, ssl, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _ssl.RAND_status - imported by _ssl, ssl, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _ssl.RAND_egd - imported by _ssl, ssl, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _ssl.HAS_SNI - imported by _ssl, ssl, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _ssl.HAS_ECDH - imported by _ssl, ssl, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _ssl.HAS_ALPN - imported by _ssl, ssl, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _ssl.HAS_NPN - imported by _ssl, ssl, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _ssl._OPENSSL_API_VERSION - imported by _ssl, ssl, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _ssl.enum_certificates - imported by _ssl, ssl, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _ssl.enum_crls - imported by _ssl, ssl, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named time.strptime - imported by time, ssl, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named winreg.QueryValueEx - imported by winreg, platform, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named winreg.HKEY_LOCAL_MACHINE - imported by winreg, platform, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named winreg.CloseKey - imported by winreg, platform, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named winreg.OpenKeyEx - imported by winreg, platform, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named os.urandom - imported by os, random, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _hashlib.pbkdf2_hmac - imported by _hashlib, hashlib, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named hashlib.sha1 - imported by hashlib, uuid
+missing module named hashlib.md5 - imported by hashlib, uuid, matplotlib.backends.backend_svg, matplotlib.texmanager, matplotlib.finance, matplotlib.backends.backend_ps
+missing module named hashlib.sha512 - imported by hashlib, random, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named urllib.splittag - imported by urllib, setuptools.py26compat
+missing module named _bz2.BZ2Compressor - imported by _bz2, bz2, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _bz2.BZ2Decompressor - imported by _bz2, bz2, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _lzma._encode_filter_properties - imported by _lzma, lzma, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _lzma._decode_filter_properties - imported by _lzma, lzma, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named grp - imported by tarfile, shutil, distutils.archive_util, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named grp.getgrnam - imported by grp, shutil, distutils.archive_util, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named binascii.b2a_qp - imported by binascii, quopri, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named binascii.a2b_qp - imported by binascii, quopri, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named binascii.a2b_base64 - imported by binascii, email.base64mime, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named binascii.b2a_base64 - imported by binascii, email.base64mime, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _dummy_threading - imported by dummy_threading, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _dummy_threading.__all__ - imported by _dummy_threading, dummy_threading, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named dummy_threading.RLock - imported by dummy_threading, bz2, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named dummy_threading.local - imported by dummy_threading, numpy.distutils.misc_util
+missing module named nt._exit - imported by nt, os, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named nt._getvolumepathname - imported by nt, ntpath, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named nt._getfullpathname - imported by nt, ntpath, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named nt._getfinalpathname - imported by nt, ntpath, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named nt._isdir - imported by nt, ntpath, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named nt._have_functions - imported by nt, os, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named math.e - imported by math, random, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named math.exp - imported by math, random, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named math.pi - imported by math, random, matplotlib.backends.backend_pdf, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named math.ceil - imported by math, random, matplotlib.mathtext, matplotlib.backends.backend_pdf, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named math.log - imported by math, random, pyqtgraph.widgets.SpinBox, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named math.cos - imported by math, random, matplotlib.backends.backend_agg, matplotlib.backends.backend_pdf, pyqtgraph.graphicsItems.ROI, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named math.sin - imported by math, random, matplotlib.backends.backend_agg, matplotlib.backends.backend_pdf, pyqtgraph.graphicsItems.ROI, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named math.acos - imported by math, random, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named math.sqrt - imported by math, random, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named math.floor - imported by math, matplotlib.backends.backend_pdf
+missing module named math.radians - imported by math, matplotlib.backends.backend_agg
+missing module named math.copysign - imported by math, dateutil.relativedelta
+missing module named math.gcd - imported by math, dateutil.rrule
+missing module named socket.SOCK_STREAM - imported by socket, ssl, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named socket.AF_INET - imported by socket, ssl, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named socket.SOL_SOCKET - imported by socket, ssl, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named socket.SO_TYPE - imported by socket, ssl, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named copy.deepcopy - imported by copy, weakref, email.generator, numpy.ma.core, matplotlib.backends.qt_editor.formlayout, pyqtgraph.graphicsItems.ViewBox.ViewBox, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named org - imported by copy, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named org.PyStringMap - imported by org, copy, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _struct._clearcache - imported by _struct, struct, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _struct.__doc__ - imported by _struct, struct, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named struct.calcsize - imported by struct, ctypes, pytz.tzfile, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named struct.pack - imported by struct, pickle, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named struct.unpack - imported by struct, pickle, pytz.tzfile, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named errno.ENOENT - imported by errno, gettext, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named gettext.ngettext - imported by gettext, argparse, optparse, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named gettext.gettext - imported by gettext, argparse, optparse, getopt, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named sys.modules - imported by sys, dummy_threading, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named sys.getwindowsversion - imported by sys, platform, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named sys.maxsize - imported by sys, pickle, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _thread.allocate_lock - imported by _thread, _strptime, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _thread.get_ident - imported by _thread, reprlib, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _thread.RLock - imported by _thread, functools, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named time.monotonic - imported by time, subprocess, threading, socketserver, queue, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named itertools.chain - imported by itertools, tokenize, collections, lib2to3.refactor, _pydecimal, matplotlib, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named itertools.repeat - imported by itertools, tokenize, collections, _pydecimal, matplotlib.cbook, pyqtgraph.graphicsItems.ScatterPlotItem, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named itertools.starmap - imported by itertools, collections, pyqtgraph.graphicsItems.ScatterPlotItem, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named itertools.imap - imported by itertools, pyqtgraph.graphicsItems.ScatterPlotItem
+missing module named itertools.product - imported by itertools, cycler
+missing module named itertools.cycle - imported by itertools, cycler
+missing module named itertools.islice - imported by itertools, threading, reprlib, pickle, lib2to3.fixer_util, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named itertools.count - imported by itertools, threading, distutils._msvccompiler, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _collections.defaultdict - imported by _collections, collections, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _collections.OrderedDict - imported by _collections, collections, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _collections._count_elements - imported by _collections, collections, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _collections.deque - imported by _collections, threading, collections, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _thread.stack_size - imported by _thread, threading, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _thread._local - imported by _thread, threading, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named threading.RLock - imported by threading, _threading_local, bz2, multiprocessing.dummy, pytz.lazy, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named threading.current_thread - imported by threading, _threading_local, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named pwd.getpwnam - imported by pwd, shutil, distutils.archive_util, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named pwd - imported by posixpath, tarfile, shutil, http.server, webbrowser, netrc, getpass, distutils.util, distutils.archive_util, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _warnings._defaultaction - imported by _warnings, warnings, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _warnings.filters - imported by _warnings, warnings, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _warnings._onceregistry - imported by _warnings, warnings, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _warnings._filters_mutated - imported by _warnings, warnings, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _warnings.warn_explicit - imported by _warnings, warnings, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named _warnings.warn - imported by _warnings, warnings, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named ntpath.commonprefix - imported by ntpath, unittest.util, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named builtins.abs - imported by builtins, operator, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named builtins.str - imported by builtins, locale, numpy.core.numerictypes, numpy.lib._iotools, numpy, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named builtins.open - imported by builtins, tokenize, tarfile, bz2, C:\Users\-IgorMuniZ-\PycharmProjects\emgTraining\gui.py
+missing module named builtins.int - imported by builtins, numpy.core.numerictypes, numpy.lib._iotools, numpy
+missing module named builtins.object - imported by builtins, numpy.core.numerictypes, numpy.lib._iotools, numpy
+missing module named builtins.bool - imported by builtins, numpy.core.numerictypes, numpy.lib._iotools, numpy
+missing module named builtins.complex - imported by builtins, numpy.core.numerictypes, numpy.lib._iotools, numpy
+missing module named builtins.float - imported by builtins, numpy.core.numerictypes, numpy.lib._iotools, numpy
+missing module named pyqtgraph.QtCore - imported by pyqtgraph, plotGrafico
+missing module named functions - imported by pyqtgraph.SRTTransform3D
+missing module named GraphicsView - imported by pyqtgraph.SRTTransform, pyqtgraph.SRTTransform3D
+missing module named widgets - imported by pyqtgraph.SRTTransform3D
+missing module named numpy.linalg.lstsq - imported by numpy.linalg, numpy.lib.polynomial
+missing module named numpy.linalg.eigvals - imported by numpy.linalg, numpy.lib.polynomial
+missing module named numpy.core.numeric.concatenate - imported by numpy.core.numeric, numpy.core.fromnumeric, numpy.lib.function_base, numpy.matrixlib.defmatrix, numpy.lib.shape_base
+missing module named numpy.core.numeric.asarray - imported by numpy.core.numeric, numpy.core.fromnumeric, numpy.core.arrayprint, numpy.lib.type_check, numpy.lib.index_tricks, numpy.lib.function_base, numpy.lib.twodim_base, numpy.lib.shape_base, numpy.lib.scimath
+missing module named numpy.core.numeric.asanyarray - imported by numpy.core.numeric, numpy.core.fromnumeric, numpy.core._methods, numpy.core.shape_base, numpy.lib.type_check, numpy.lib.function_base, numpy.lib.twodim_base, numpy.matrixlib.defmatrix, numpy.lib.shape_base
+missing module named numpy.core.numeric.array - imported by numpy.core.numeric, numpy.core.fromnumeric, numpy.core.defchararray, numpy.core.getlimits, numpy.lib.type_check, numpy.lib.index_tricks, numpy.lib.function_base, numpy.lib.shape_base
+missing module named numpy.core.numeric.any - imported by numpy.core.numeric, numpy.lib.scimath
+missing module named numpy.core.numeric.int8 - imported by numpy.core.numeric, numpy.lib.twodim_base
+missing module named numpy.core.numeric.int16 - imported by numpy.core.numeric, numpy.lib.twodim_base
+missing module named numpy.core.numeric.int64 - imported by numpy.core.numeric, numpy.lib.twodim_base
+missing module named numpy.core.numeric.multiply - imported by numpy.core.numeric, numpy.lib.twodim_base
+missing module named numpy.core.numeric.int32 - imported by numpy.core.numeric, numpy.lib.twodim_base
+missing module named numpy.core.numeric.greater_equal - imported by numpy.core.numeric, numpy.lib.twodim_base
+missing module named numpy.core.numeric.diagonal - imported by numpy.core.numeric, numpy.lib.twodim_base
+missing module named numpy.core.numeric.integer - imported by numpy.core.numeric, numpy.lib.function_base
+missing module named numpy.core.numeric.intp - imported by numpy.core.numeric, numpy.lib.function_base
+missing module named numpy.core.numeric.floor - imported by numpy.core.numeric, numpy.lib.function_base
+missing module named numpy.core.numeric.take - imported by numpy.core.numeric, numpy.lib.function_base
+missing module named numpy.core.numeric.ceil - imported by numpy.core.numeric, numpy.lib.function_base
+missing module named numpy.core.numeric.around - imported by numpy.core.numeric, numpy.lib.function_base
+missing module named numpy.core.numeric.ScalarType - imported by numpy.core.numeric, numpy.lib.index_tricks
+missing module named numpy.core.numeric.alltrue - imported by numpy.core.numeric, numpy.lib.index_tricks
+missing module named numpy.core.numeric.cumprod - imported by numpy.core.numeric, numpy.lib.index_tricks
+missing module named numpy.core.numeric.isnan - imported by numpy.core.numeric, numpy.lib.type_check
+missing module named numpy.core.numeric.obj2sctype - imported by numpy.core.numeric, numpy.lib.type_check
+missing module named numpy.core.numeric.absolute - imported by numpy.core.numeric, numpy.core
+missing module named numpy.core.numeric.uint8 - imported by numpy.core.numeric, numpy.core.memmap
+missing module named numpy.eye - imported by numpy, numpy.core.numeric
+missing module named numpy.core.multiarray.datetime_as_string - imported by numpy.core.multiarray, numpy.core.numerictypes, numpy.core.arrayprint
+missing module named numpy.core.multiarray.datetime_data - imported by numpy.core.multiarray, numpy.core.numerictypes, numpy.core.arrayprint
+missing module named numpy.core.multiarray.format_longfloat - imported by numpy.core.multiarray, numpy.core.arrayprint
+missing module named numpy.core.multiarray.array - imported by numpy.core.multiarray, numpy.core._internal, numpy.core.numerictypes, numpy.core.arrayprint
+missing module named numpy.core.umath.isnan - imported by numpy.core.umath, numpy.core.arrayprint
+missing module named numpy.core.umath.maximum - imported by numpy.core.umath, numpy.core.arrayprint
+missing module named numpy.core.umath.minimum - imported by numpy.core.umath, numpy.core.arrayprint
+missing module named numpy.core.umath.isinf - imported by numpy.core.umath, numpy.core.arrayprint
+missing module named numpy.core.umath.not_equal - imported by numpy.core.umath, numpy.core.arrayprint
+missing module named numpy.core.umath.absolute - imported by numpy.core.umath, numpy.core.arrayprint
+missing module named cPickle - imported by numpy.core.numeric, numpy.lib.format, numpy.lib.npyio, numpy.ma.core, pyqtgraph.multiprocess.processes, pyqtgraph.multiprocess.remoteproxy
+missing module named numpy.core.numerictypes.object_ - imported by numpy.core.numerictypes, numpy.core._internal, numpy.core.defchararray
+missing module named numpy.core.multiarray.dtype - imported by numpy.core.multiarray, numpy.core._internal, numpy.core.numerictypes
+missing module named numpy.core.multiarray.ndarray - imported by numpy.core.multiarray, numpy.core._internal, numpy.core.numerictypes
+missing module named numpy.compat.asbytes - imported by numpy.compat, numpy.core._internal, numpy.core.defchararray, numpy.linalg.linalg, numpy.lib.format, numpy.lib._iotools, numpy.lib.npyio
+missing module named numpy.core.numerictypes.intc - imported by numpy.core.numerictypes, numpy.core.numeric
+missing module named numpy.core.numerictypes.int_ - imported by numpy.core.numerictypes, numpy.core.numeric
+missing module named numpy.core.numerictypes.bool_ - imported by numpy.core.numerictypes, numpy.core.numeric, numpy.core.defchararray
+missing module named numpy.core.numerictypes.longlong - imported by numpy.core.numerictypes, numpy.core.numeric
+missing module named numpy.core.numerictypes.float_ - imported by numpy.core.numerictypes, numpy.core.numeric
+missing module named numpy.core.numerictypes.complex_ - imported by numpy.core.numerictypes, numpy.core.numeric
+missing module named numpy.core.umath.NAN - imported by numpy.core.umath, numpy.core.numeric
+missing module named numpy.core.umath.UFUNC_BUFSIZE_DEFAULT - imported by numpy.core.umath, numpy.core.numeric
+missing module named numpy.core.umath.ERR_RAISE - imported by numpy.core.umath, numpy.core.numeric
+missing module named numpy.core.umath.ERR_IGNORE - imported by numpy.core.umath, numpy.core.numeric
+missing module named numpy.core.umath.PINF - imported by numpy.core.umath, numpy.core.numeric
+missing module named numpy.core.umath.ERR_LOG - imported by numpy.core.umath, numpy.core.numeric
+missing module named numpy.core.umath.ERR_PRINT - imported by numpy.core.umath, numpy.core.numeric
+missing module named numpy.core.umath.invert - imported by numpy.core.umath, numpy.core.numeric
+missing module named numpy.core.umath.ERR_WARN - imported by numpy.core.umath, numpy.core.numeric
+missing module named numpy.core.umath.ERR_DEFAULT - imported by numpy.core.umath, numpy.core.numeric
+missing module named numpy.core.umath.ERR_CALL - imported by numpy.core.umath, numpy.core.numeric
+missing module named numpy.core.umath.sin - imported by numpy.core.umath, numpy.core.numeric, numpy.lib.function_base
+missing module named numpy.core.umath._add_newdoc_ufunc - imported by numpy.core.umath, numpy.lib.function_base
+missing module named numpy.core.umath.sqrt - imported by numpy.core.umath, numpy.lib.function_base
+missing module named numpy.core.umath.log10 - imported by numpy.core.umath, numpy.lib.function_base
+missing module named numpy.core.umath.mod - imported by numpy.core.umath, numpy.lib.function_base
+missing module named numpy.core.umath.cos - imported by numpy.core.umath, numpy.lib.function_base
+missing module named numpy.core.umath.less_equal - imported by numpy.core.umath, numpy.lib.function_base
+missing module named numpy.core.umath.pi - imported by numpy.core.umath, numpy.lib.function_base
+missing module named numpy.core.umath.multiply - imported by numpy.core.umath, numpy.lib.function_base
+missing module named numpy.core.umath.arctan2 - imported by numpy.core.umath, numpy.lib.function_base
+missing module named numpy.core.umath.add - imported by numpy.core.umath, numpy.lib.function_base
+missing module named numpy.core.umath.frompyfunc - imported by numpy.core.umath, numpy.lib.function_base
+missing module named numpy.core.umath.exp - imported by numpy.core.umath, numpy.lib.function_base
+missing module named numpy.core.multiarray._flagdict - imported by numpy.core.multiarray, numpy.ctypeslib
+missing module named numpy.core.multiarray.flagsobj - imported by numpy.core.multiarray, numpy.ctypeslib
+missing module named numpy.core.multiarray.unpackbits - imported by numpy.core.multiarray, numpy.lib.npyio
+missing module named numpy.core.multiarray.packbits - imported by numpy.core.multiarray, numpy.lib.npyio
+missing module named numpy.core.multiarray.unravel_index - imported by numpy.core.multiarray, numpy.lib.index_tricks
+missing module named numpy.core.multiarray.ravel_multi_index - imported by numpy.core.multiarray, numpy.lib.index_tricks
+missing module named numpy.core.multiarray.bincount - imported by numpy.core.multiarray, numpy.lib.function_base
+missing module named numpy.core.multiarray.digitize - imported by numpy.core.multiarray, numpy.lib.function_base
+missing module named numpy.core.multiarray.interp - imported by numpy.core.multiarray, numpy.lib.function_base
+missing module named numpy.core.multiarray.add_docstring - imported by numpy.core.multiarray, numpy.lib.function_base
+missing module named numpy.core.multiarray._insert - imported by numpy.core.multiarray, numpy.lib.function_base
+missing module named numpy.core.multiarray._vec_string - imported by numpy.core.multiarray, numpy.core.defchararray
+missing module named numpy.core.multiarray.busdaycalendar - imported by numpy.core.multiarray, numpy.core.numerictypes
+missing module named numpy.core.multiarray.busday_offset - imported by numpy.core.multiarray, numpy.core.numerictypes
+missing module named numpy.core.multiarray.busday_count - imported by numpy.core.multiarray, numpy.core.numerictypes
+missing module named numpy.core.multiarray.typeinfo - imported by numpy.core.multiarray, numpy.core.numerictypes
+missing module named numpy.core.multiarray.empty - imported by numpy.core.multiarray, numpy.core.numerictypes
+missing module named numpy.core.multiarray.is_busday - imported by numpy.core.multiarray, numpy.core.numerictypes
+missing module named numpy.VisibleDeprecationWarning - imported by numpy, numpy.core.fromnumeric
+missing module named numpy.core.numerictypes.number - imported by numpy.core.numerictypes, numpy.lib.function_base
+missing module named numpy.core.numerictypes.integer - imported by numpy.core.numerictypes, numpy.core.defchararray
+missing module named numpy.core.numerictypes.unicode_ - imported by numpy.core.numerictypes, numpy.core.defchararray
+missing module named numpy.core.numerictypes.string_ - imported by numpy.core.numerictypes, numpy.core.defchararray
+missing module named numpy.core.numerictypes.character - imported by numpy.core.numerictypes, numpy.core.defchararray
+missing module named numpy.compat.long - imported by numpy.compat, numpy.core.numerictypes, numpy.core.defchararray, numpy.core.records, numpy.core.memmap, numpy.lib.function_base, numpy.lib.format, numpy.ma.core, numpy.lib.arrayterator, numpy
+missing module named numpy.compat.bytes - imported by numpy.compat, numpy.core.numerictypes, numpy.core.records, numpy.lib._iotools, numpy.lib.npyio, numpy.ma.core
+missing module named numpy.core.number - imported by numpy.core, numpy.testing.utils
+missing module named numpy.lib.imag - imported by numpy.lib, numpy.testing.utils
+missing module named numpy.lib.real - imported by numpy.lib, numpy.testing.utils
+missing module named numpy.lib.iscomplexobj - imported by numpy.lib, numpy.testing.utils
+missing module named numpy.lib.add_newdoc - imported by numpy.lib, numpy.add_newdocs
+missing module named numpy.ma.filled - imported by numpy.ma, numpy.ma.mrecords
+missing module named numpy.ma.masked - imported by numpy.ma, numpy.ma.mrecords
+missing module named numpy.ma.masked_array - imported by numpy.ma, numpy.ma.mrecords
+missing module named numpy.ma.nomask - imported by numpy.ma, numpy.ma.mrecords
+missing module named numpy.ma.MAError - imported by numpy.ma, numpy.ma.mrecords
+missing module named numpy.ma.getmaskarray - imported by numpy.ma, numpy.ma.mrecords
+missing module named numpy.ma.getdata - imported by numpy.ma, numpy.ma.mrecords
+missing module named numpy.compat.isfileobj - imported by numpy.compat, numpy.core.records, numpy.lib.format
+missing module named numpy.dtype - imported by numpy, numpy.ma.mrecords, numpy.ctypeslib
+missing module named numpy.ndarray - imported by numpy, numpy.ma.core, numpy.ma.extras, numpy.ma.mrecords, numpy.ctypeslib, pyqtgraph.debug, pyqtgraph.graphicsItems.MultiPlotItem
+missing module named numpy.array - imported by numpy, numpy.ma.core, numpy.ma.extras, numpy.ma.mrecords, numpy.ctypeslib
+missing module named numpy.recarray - imported by numpy, numpy.ma.mrecords
+missing module named numpy.bool_ - imported by numpy, numpy.ma.core, numpy.ma.mrecords
+missing module named numpy.ma.MaskedArray - imported by numpy.ma, numpy.lib.npyio, numpy.ma.mrecords
+missing module named numpy.ma.make_mask_descr - imported by numpy.ma, numpy.lib.npyio
+missing module named numpy.expand_dims - imported by numpy, numpy.ma.core
+missing module named numpy.compat.sixu - imported by numpy.compat, numpy.ma.core
+missing module named numpy.amin - imported by numpy, numpy.ma.core
+missing module named numpy.amax - imported by numpy, numpy.ma.core
+missing module named numpy.iscomplexobj - imported by numpy, numpy.ma.core
+missing module named numpy._NoValue - imported by numpy, numpy.ma.core
+missing module named future_builtins.map - imported by future_builtins, numpy.lib.npyio
+missing module named future_builtins - imported by numpy.lib.npyio
+missing module named numpy.compat.asbytes_nested - imported by numpy.compat, numpy.lib._iotools, numpy.lib.npyio
+missing module named numpy.compat.asstr - imported by numpy.compat, numpy.lib.format, numpy.lib.npyio
+missing module named numpy.compat.unicode - imported by numpy.compat, numpy.lib.npyio, numpy.ma.core
+missing module named urllib2.URLError - imported by urllib2, numpy.lib._datasource
+missing module named urllib2.urlopen - imported by urllib2, numpy.lib._datasource
+missing module named urllib2 - imported by numpy.lib._datasource, setuptools.package_index
+missing module named urllib2.splituser - imported by urllib2, setuptools.package_index
+missing module named urlparse.urlparse - imported by urlparse, numpy.lib._datasource
+missing module named urlparse - imported by numpy.lib._datasource
+missing module named numpy.core.hstack - imported by numpy.core, numpy.lib.polynomial
+missing module named numpy.core.dot - imported by numpy.core, numpy.linalg.linalg, numpy.lib.polynomial
+missing module named numpy.core.finfo - imported by numpy.core, numpy.linalg.linalg, numpy.lib.polynomial
+missing module named numpy.core.atleast_1d - imported by numpy.core, numpy.lib.function_base, numpy.lib.polynomial
+missing module named numpy.core.array - imported by numpy.core, numpy.linalg.linalg, numpy.fft.fftpack, numpy.lib.polynomial
+missing module named numpy.core.isscalar - imported by numpy.core, numpy.linalg.linalg, numpy.lib.polynomial
+missing module named numpy.core.ones - imported by numpy.core, numpy.lib.polynomial
+missing module named numpy.histogramdd - imported by numpy, numpy.lib.twodim_base
+missing module named numpy.core.iinfo - imported by numpy.core, numpy.lib.twodim_base
+missing module named numpy.core.vstack - imported by numpy.core, numpy.lib.shape_base
+missing module named numpy.core.atleast_3d - imported by numpy.core, numpy.lib.shape_base
+missing module named numpy.dual.pinv - imported by numpy.dual, numpy.matrixlib.defmatrix
+missing module named numpy.dual.inv - imported by numpy.dual, numpy.matrixlib.defmatrix
+missing module named numpy.core.arange - imported by numpy.core, numpy.fft.helper
+missing module named numpy.core.integer - imported by numpy.core, numpy.fft.helper
+missing module named numpy.core.asarray - imported by numpy.core, numpy.linalg.linalg, numpy.fft.fftpack, numpy.fft.helper
+missing module named numpy.core.empty - imported by numpy.core, numpy.linalg.linalg, numpy.fft.helper
+missing module named numpy.core.take - imported by numpy.core, numpy.fft.fftpack, numpy.fft.helper
+missing module named numpy.core.concatenate - imported by numpy.core, numpy.fft.helper
+missing module named numpy.compat.integer_types - imported by numpy.compat, numpy.fft.helper
+missing module named numpy.core.sqrt - imported by numpy.core, numpy.linalg.linalg, numpy.fft.fftpack
+missing module named numpy.core.zeros - imported by numpy.core, numpy.linalg.linalg, numpy.fft.fftpack
+missing module named numpy.core.shape - imported by numpy.core, numpy.fft.fftpack
+missing module named numpy.core.swapaxes - imported by numpy.core, numpy.fft.fftpack
+missing module named numpy.core.conjugate - imported by numpy.core, numpy.fft.fftpack
+missing module named numpy.core.linspace - imported by numpy.core, numpy.lib.function_base
+missing module named numpy.core.atleast_2d - imported by numpy.core, numpy.lib.function_base, numpy.linalg.linalg
+missing module named numpy.lib.i0 - imported by numpy.lib, numpy.dual
+missing module named numpy.lib.triu - imported by numpy.lib, numpy.linalg.linalg
+missing module named numpy.core.signbit - imported by numpy.core, numpy.testing.utils
+missing module named numpy.core.float64 - imported by numpy.core, numpy.testing.utils
+missing module named numpy.core.isinf - imported by numpy.core, numpy.testing.utils
+missing module named numpy.core.isfinite - imported by numpy.core, numpy.testing.utils, numpy.linalg.linalg
+missing module named numpy.core.isnan - imported by numpy.core, numpy.testing.utils
+missing module named numpy.core.float32 - imported by numpy.core, numpy.testing.utils
+missing module named numpy.core.geterrobj - imported by numpy.core, numpy.linalg.linalg
+missing module named numpy.core.maximum - imported by numpy.core, numpy.linalg.linalg
+missing module named numpy.core.empty_like - imported by numpy.core, numpy.linalg.linalg
+missing module named numpy.core.multiply - imported by numpy.core, numpy.linalg.linalg
+missing module named numpy.core.transpose - imported by numpy.core, numpy.linalg.linalg
+missing module named numpy.core.broadcast - imported by numpy.core, numpy.linalg.linalg
+missing module named numpy.core.all - imported by numpy.core, numpy.linalg.linalg
+missing module named numpy.core.amin - imported by numpy.core, numpy.linalg.linalg
+missing module named numpy.core.object_ - imported by numpy.core, numpy.linalg.linalg
+missing module named numpy.core.add - imported by numpy.core, numpy.linalg.linalg
+missing module named numpy.core.cdouble - imported by numpy.core, numpy.linalg.linalg
+missing module named numpy.core.csingle - imported by numpy.core, numpy.linalg.linalg
+missing module named numpy.core.size - imported by numpy.core, numpy.linalg.linalg
+missing module named numpy.core.product - imported by numpy.core, numpy.linalg.linalg
+missing module named numpy.core.fastCopyAndTranspose - imported by numpy.core, numpy.linalg.linalg
+missing module named numpy.core.amax - imported by numpy.core, numpy.linalg.linalg
+missing module named numpy.core.longdouble - imported by numpy.core, numpy.linalg.linalg
+missing module named numpy.core.Inf - imported by numpy.core, numpy.linalg.linalg
+missing module named numpy.core.ravel - imported by numpy.core, numpy.linalg.linalg
+missing module named numpy.core.errstate - imported by numpy.core, numpy.linalg.linalg
+missing module named numpy.core.newaxis - imported by numpy.core, numpy.linalg.linalg
+missing module named numpy.core.intp - imported by numpy.core, numpy.linalg.linalg
+missing module named numpy.core.intc - imported by numpy.core, numpy.linalg.linalg
+missing module named numpy.core.inexact - imported by numpy.core, numpy.linalg.linalg
+missing module named numpy.core.single - imported by numpy.core, numpy.linalg.linalg
+missing module named numpy.core.double - imported by numpy.core, numpy.linalg.linalg
+missing module named numpy.core.complexfloating - imported by numpy.core, numpy.linalg.linalg
+missing module named numpy.core.rollaxis - imported by numpy.core, numpy.linalg.linalg
+missing module named numpy.core.sum - imported by numpy.core, numpy.linalg.linalg
+missing module named numpy.core.asanyarray - imported by numpy.core, numpy.linalg.linalg
+missing module named numpy.testing.utils.KnownFailureException - imported by numpy.testing.utils, numpy.testing.noseclasses
+missing module named numpy.testing.utils.KnownFailureTest - imported by numpy.testing.utils, numpy.testing.noseclasses
+missing module named 'nose.plugins' - imported by numpy.testing.noseclasses, numpy.testing.nosetester, matplotlib, matplotlib.testing.noseclasses
+missing module named 'nose.plugins'.multiprocess - imported by 'nose.plugins', matplotlib
+missing module named 'nose.plugins'.PluginManager - imported by 'nose.plugins', matplotlib
+missing module named 'nose.plugins'.Plugin - imported by 'nose.plugins', numpy.testing.noseclasses
+missing module named 'nose.plugins'.ErrorClassPlugin - imported by 'nose.plugins', numpy.testing.noseclasses, matplotlib.testing.noseclasses
+missing module named 'nose.plugins'.ErrorClass - imported by 'nose.plugins', numpy.testing.noseclasses, matplotlib.testing.noseclasses
+missing module named 'nose.plugins'.doctests - imported by 'nose.plugins', numpy.testing.noseclasses
+missing module named scipy - imported by numpy.testing.nosetester
+missing module named 'nose.util'.src - imported by 'nose.util', numpy.testing.noseclasses
+missing module named 'nose.util' - imported by numpy.testing.noseclasses
+missing module named numpy.testing.nosetester.get_package_name - imported by numpy.testing.nosetester, numpy.testing.noseclasses
+missing module named nose - imported by numpy.testing.nosetester, numpy.testing.noseclasses, numpy.testing.utils, numpy.testing.decorators, matplotlib
+missing module named numpy.compat.basestring - imported by numpy.compat, numpy.core._internal, numpy.core.memmap, numpy.testing.nosetester, numpy.lib.format, numpy.lib._iotools, numpy.lib.npyio, numpy.ma.core, numpy.ma.mrecords, numpy.lib._version, numpy.distutils.misc_util
+missing module named numpy.compat.open_latin1 - imported by numpy.compat, numpy.distutils.exec_command, numpy.distutils.fcompiler
+missing module named numpy.linalg.inv - imported by numpy.linalg, numpy.matrixlib.defmatrix, numpy.lib.polynomial, matplotlib.transforms
+missing module named pyqtgraph.SRTTransform.SRTTransform - imported by pyqtgraph.SRTTransform, pyqtgraph.SRTTransform3D, pyqtgraph.graphicsItems.ROI, pyqtgraph
+missing module named matplotlib.figure.Figure - imported by matplotlib.figure, matplotlib.image, matplotlib.legend, matplotlib.pyplot, matplotlib.backends.backend_pdf, matplotlib.backends.backend_svg, matplotlib.backends.backend_webagg, matplotlib.backends.backend_webagg_core, matplotlib.backends.backend_agg, matplotlib.backends.backend_qt4agg, matplotlib.backends.backend_qt5agg, matplotlib.backends.backend_qt5, matplotlib.backends.backend_qt4, pyqtgraph.widgets.MatplotlibWidget, matplotlib.backends.backend_tkagg, matplotlib.backends.backend_pgf, matplotlib.backends.backend_ps, matplotlib.backends.backend_template
+missing module named matplotlib.backends.backend_agg.FigureCanvasAgg - imported by matplotlib.backends.backend_agg, matplotlib.image, matplotlib.tight_layout, matplotlib.backends.backend_qt5agg, matplotlib.backends.backend_qt4agg, matplotlib.backends.backend_tkagg
+missing module named matplotlib._image.fromarray - imported by matplotlib._image, matplotlib.backends.backend_agg
+missing module named PIL.Image - imported by PIL, matplotlib.image, matplotlib.backends.backend_agg, matplotlib.backend_bases
+missing module named PIL - imported by matplotlib.image, matplotlib.backends.backend_agg, matplotlib.backend_bases
+missing module named matplotlib._png.read_png - imported by matplotlib._png, matplotlib.texmanager
+missing module named matplotlib.backends._backend_agg.RendererAgg - imported by matplotlib.backends._backend_agg, matplotlib.backends.backend_agg
+missing module named matplotlib.path.Path - imported by matplotlib.path, matplotlib.hatch, matplotlib.transforms, matplotlib.artist, matplotlib.patches, matplotlib.bezier, matplotlib.mlab, matplotlib.lines, matplotlib.markers, matplotlib.text, matplotlib.textpath, matplotlib.table, matplotlib.projections.geo, matplotlib.projections.polar, matplotlib.backends.backend_pdf, matplotlib.backends.backend_svg, matplotlib.backends.backend_agg, matplotlib.backend_bases, matplotlib.backends.backend_pgf, matplotlib.backends.backend_ps
+missing module named matplotlib.cbook.deprecated - imported by matplotlib.cbook, matplotlib.path
+missing module named 'matplotlib.externals.six.moves'.xrange - imported by 'matplotlib.externals.six.moves', matplotlib.cbook, matplotlib.finance, matplotlib.dates, matplotlib.hatch, matplotlib.backend_bases, matplotlib.mlab, matplotlib.contour, matplotlib.markers, matplotlib.colorbar, matplotlib.axes._axes, matplotlib.legend, matplotlib.offsetbox, matplotlib.stackplot, matplotlib.streamplot, matplotlib.table, matplotlib.axes._base, matplotlib.dviread, matplotlib.backends.backend_svg, matplotlib.tri.triinterpolate, matplotlib.backends.qt_editor.formlayout
+missing module named 'matplotlib.externals.six.moves' - imported by matplotlib.cbook, matplotlib.finance, matplotlib.dates, matplotlib.hatch, matplotlib.collections, matplotlib.colors, matplotlib.patches, matplotlib.backend_bases, matplotlib.widgets, matplotlib.mlab, matplotlib.contour, matplotlib.font_manager, matplotlib.afm, matplotlib.text, matplotlib.markers, matplotlib.textpath, matplotlib.image, matplotlib.colorbar, matplotlib.gridspec, matplotlib.axes._subplots, matplotlib.axes._axes, matplotlib.legend, matplotlib.offsetbox, matplotlib.legend_handler, matplotlib.stackplot, matplotlib.streamplot, matplotlib.table, matplotlib.axes._base, matplotlib.dviread, matplotlib.backends.backend_svg, matplotlib.tri.triinterpolate, matplotlib, matplotlib.backends.qt_editor.formlayout, matplotlib.backends.backend_tkagg, matplotlib.backends.tkagg, matplotlib.backends.backend_ps
+missing module named 'matplotlib.externals.six.moves'.StringIO - imported by 'matplotlib.externals.six.moves', matplotlib.backends.backend_ps
+missing module named 'matplotlib.externals.six.moves'.tkinter_tkfiledialog - imported by 'matplotlib.externals.six.moves', matplotlib.backends.backend_tkagg
+missing module named 'matplotlib.externals.six.moves'.tkinter_messagebox - imported by 'matplotlib.externals.six.moves', matplotlib.backends.backend_tkagg
+missing module named 'matplotlib.externals.six.moves'.tkinter_filedialog - imported by 'matplotlib.externals.six.moves', matplotlib.backends.backend_tkagg
+missing module named 'matplotlib.externals.six.moves'.tkinter - imported by 'matplotlib.externals.six.moves', matplotlib.backends.backend_tkagg, matplotlib.backends.tkagg
+missing module named 'matplotlib.externals.six.moves'.reload_module - imported by 'matplotlib.externals.six.moves', matplotlib
+missing module named 'matplotlib.externals.six.moves'.quote - imported by 'matplotlib.externals.six.moves', matplotlib.textpath
+missing module named 'matplotlib.externals.six.moves'.zip_longest - imported by 'matplotlib.externals.six.moves', matplotlib.axes._axes
+missing module named 'matplotlib.externals.six.moves'.reduce - imported by 'matplotlib.externals.six.moves', matplotlib.axes._axes
+missing module named 'matplotlib.externals.six.moves'.urlparse - imported by 'matplotlib.externals.six.moves', matplotlib.image
+missing module named 'matplotlib.externals.six.moves'.winreg - imported by 'matplotlib.externals.six.moves', matplotlib.font_manager
+missing module named 'matplotlib.externals.six.moves'.cPickle - imported by 'matplotlib.externals.six.moves', matplotlib.font_manager
+missing module named 'matplotlib.externals.six.moves'.map - imported by 'matplotlib.externals.six.moves', matplotlib.patches, matplotlib.mlab, matplotlib.afm, matplotlib.axes._subplots
+missing module named 'matplotlib.externals.six.moves'.urlopen - imported by 'matplotlib.externals.six.moves', matplotlib.finance, matplotlib.image, matplotlib
+missing module named 'matplotlib.externals.six.moves'.zip - imported by 'matplotlib.externals.six.moves', matplotlib.cbook, matplotlib.finance, matplotlib.dates, matplotlib.collections, matplotlib.colors, matplotlib.patches, matplotlib.widgets, matplotlib.mlab, matplotlib.text, matplotlib.textpath, matplotlib.colorbar, matplotlib.gridspec, matplotlib.axes._axes, matplotlib.offsetbox, matplotlib.legend_handler
+missing module named matplotlib.cbook.simple_linear_interpolation - imported by matplotlib.cbook, matplotlib.path
+missing module named matplotlib._path.update_path_extents - imported by matplotlib._path, matplotlib.transforms
+missing module named matplotlib._path.count_bboxes_overlapping_bbox - imported by matplotlib._path, matplotlib.transforms
+missing module named matplotlib._path.affine_transform - imported by matplotlib._path, matplotlib.transforms
+missing module named matplotlib.mathtext.MathTextParser - imported by matplotlib.mathtext, matplotlib.backends.backend_pdf, matplotlib.backends.backend_svg, matplotlib.backends.backend_agg, matplotlib.textpath, matplotlib.backends.backend_ps
+missing module named matplotlib.get_data_path - imported by matplotlib, matplotlib.mathtext
+missing module named matplotlib.ft2font.FT2Image - imported by matplotlib.ft2font, matplotlib.mathtext
+missing module named matplotlib.ft2font.KERNING_DEFAULT - imported by matplotlib.ft2font, matplotlib.textpath, matplotlib.mathtext, matplotlib.backends.backend_svg, matplotlib.backends.backend_ps
+missing module named matplotlib.cbook.get_realpath_and_stat - imported by matplotlib.cbook, matplotlib.mathtext, matplotlib.backends.backend_pdf, matplotlib.backends.backend_ps
+missing module named matplotlib.cbook.Bunch - imported by matplotlib.cbook, matplotlib.mathtext, matplotlib.backends.backend_pdf
+missing module named numpy.isinf - imported by numpy, matplotlib.mathtext
+missing module named numpy.inf - imported by numpy, matplotlib.mathtext
+missing module named matplotlib.ft2font.LOAD_NO_HINTING - imported by matplotlib.ft2font, matplotlib.textpath, matplotlib.mathtext, matplotlib.backends.backend_pdf, matplotlib.backends.backend_svg, matplotlib.backends.backend_agg, matplotlib.backends.backend_ps
+missing module named matplotlib.ft2font.LOAD_NO_AUTOHINT - imported by matplotlib.ft2font, matplotlib.backends.backend_agg
+missing module named matplotlib.ft2font.LOAD_DEFAULT - imported by matplotlib.ft2font, matplotlib.backends.backend_agg
+missing module named matplotlib.ft2font.FT2Font - imported by matplotlib.ft2font, matplotlib.textpath, matplotlib.mathtext, matplotlib.backends.backend_pdf, matplotlib.backends.backend_svg, matplotlib.backends.backend_agg, matplotlib.backends.backend_pgf, matplotlib.backends.backend_ps
+missing module named matplotlib.ft2font.LOAD_FORCE_AUTOHINT - imported by matplotlib.ft2font, matplotlib.mathtext, matplotlib.backends.backend_agg
+missing module named matplotlib.ft2font.LOAD_NO_SCALE - imported by matplotlib.ft2font, matplotlib.backends.backend_pdf
+missing module named matplotlib.ft2font.KERNING_UNFITTED - imported by matplotlib.ft2font, matplotlib.backends.backend_pdf
+missing module named matplotlib.ft2font.FIXED_WIDTH - imported by matplotlib.ft2font, matplotlib.backends.backend_pdf
+missing module named matplotlib.ft2font.ITALIC - imported by matplotlib.ft2font, matplotlib.backends.backend_pdf
+missing module named matplotlib.ft2font.LOAD_TARGET_LIGHT - imported by matplotlib.ft2font, matplotlib.textpath
+missing module named matplotlib.backends.backend_agg.RendererAgg - imported by matplotlib.backends.backend_agg, matplotlib.backends.backend_mixed
+missing module named matplotlib.cbook.maxdict - imported by matplotlib.cbook, matplotlib.path, matplotlib.text, matplotlib.mathtext, matplotlib.backends.backend_agg, matplotlib.backends.backend_pdf, matplotlib.backends.backend_svg, matplotlib.textpath, matplotlib.backends.backend_ps
+missing module named matplotlib.cbook.is_string_like - imported by matplotlib.cbook, matplotlib.pylab, matplotlib.font_manager, matplotlib.text, matplotlib.lines, matplotlib.markers, matplotlib.mathtext, matplotlib.backends.backend_agg, matplotlib.axes._axes, matplotlib.legend, matplotlib.table, matplotlib.pyplot, matplotlib.backends.backend_pdf, matplotlib.backends.backend_svg, matplotlib, matplotlib.testing, matplotlib.backends.backend_qt5, matplotlib.backends.backend_qt4, matplotlib.backends.backend_tkagg, matplotlib.backends.backend_pgf, matplotlib.backends.backend_ps
+missing module named matplotlib.cbook.restrict_dict - imported by matplotlib.cbook, matplotlib.backends.backend_agg
+missing module named matplotlib.backend_bases.FigureManagerBase - imported by matplotlib.backend_bases, matplotlib.backends.backend_agg, matplotlib.backends.backend_pdf, matplotlib.backends.backend_svg, matplotlib.backends.backend_qt5, matplotlib.backends.backend_qt4, matplotlib.backends.backend_tkagg, matplotlib.backends.backend_pgf, matplotlib.backends.backend_ps, matplotlib.backends.backend_template
+missing module named matplotlib.backend_bases.FigureCanvasBase - imported by matplotlib.backend_bases, matplotlib.backends.backend_agg, matplotlib.pyplot, matplotlib.backends.backend_pdf, matplotlib.backends.backend_svg, matplotlib.backends.backend_qt5, matplotlib.backends.backend_qt4, matplotlib.backends.backend_tkagg, matplotlib.backends.backend_pgf, matplotlib.backends.backend_ps, matplotlib.backends.backend_template
+missing module named matplotlib.backend_bases.RendererBase - imported by matplotlib.backend_bases, matplotlib.text, matplotlib.backends.backend_agg, matplotlib.backends.backend_pdf, matplotlib.backends.backend_svg, matplotlib.patheffects, matplotlib.backends.backend_tkagg, matplotlib.backends.backend_pgf, matplotlib.backends.backend_ps, matplotlib.backends.backend_template
+missing module named matplotlib.verbose - imported by matplotlib, matplotlib.finance, matplotlib.mlab, matplotlib.lines, matplotlib.backends.backend_agg, matplotlib.backends.backend_svg, matplotlib.blocking_input, matplotlib.backends.qt_compat, matplotlib.backends.backend_ps
+missing module named matplotlib.get_cachedir - imported by matplotlib, matplotlib.finance, matplotlib.font_manager
+missing module named matplotlib.patheffects.PathEffectRenderer - imported by matplotlib.patheffects, matplotlib.lines, matplotlib.text, matplotlib.patches, matplotlib.collections
+missing module named IPython.get_ipython - imported by IPython, matplotlib.pyplot
+missing module named IPython - imported by matplotlib.pyplot
+missing module named gobject - imported by matplotlib.pyplot
+missing module named gi.GObject - imported by gi, matplotlib.pyplot
+missing module named gi - imported by matplotlib.pyplot
+missing module named PyQt5 - imported by matplotlib.pyplot, matplotlib.backends.qt_compat
+missing module named PyQt5.QtWidgets - imported by PyQt5, matplotlib.backends.qt_compat
+missing module named PyQt5.QtCore - imported by PyQt5, matplotlib.backends.qt_compat
+missing module named PyQt5.QtGui - imported by PyQt5, matplotlib.backends.qt_compat
+missing module named wx - imported by matplotlib.pyplot
+missing module named decimal.Decimal - imported by decimal, pyqtgraph.widgets.SpinBox, fractions
+missing module named _decimal.__libmpdec_version__ - imported by _decimal, decimal
+missing module named _decimal.__version__ - imported by _decimal, decimal
+missing module named _decimal.__doc__ - imported by _decimal, decimal
+missing module named matplotlib.widgets.Button - imported by matplotlib.widgets, matplotlib.pyplot
+missing module named matplotlib.widgets.SubplotTool - imported by matplotlib.widgets, matplotlib.pyplot, matplotlib.backends.backend_qt5, matplotlib.backends.backend_qt4, matplotlib.backends.backend_tkagg
+missing module named matplotlib.widgets.Widget - imported by matplotlib.widgets, matplotlib.pyplot
+missing module named matplotlib.widgets.Slider - imported by matplotlib.widgets, matplotlib.pyplot
+missing module named matplotlib.patches.Ellipse - imported by matplotlib.patches, matplotlib.widgets
+missing module named matplotlib.patches.Polygon - imported by matplotlib.patches, matplotlib.pyplot
+missing module named matplotlib.patches.Circle - imported by matplotlib.patches, matplotlib.projections.geo, matplotlib.projections.polar, matplotlib.pyplot, matplotlib.widgets
+missing module named matplotlib.patches.Arrow - imported by matplotlib.patches, matplotlib.pyplot
+missing module named matplotlib.text.Annotation - imported by matplotlib.text, matplotlib.pyplot
+missing module named matplotlib.text.TextPath - imported by matplotlib.text, matplotlib.markers
+missing module named matplotlib.cbook.is_math_text - imported by matplotlib.cbook, matplotlib.markers
+missing module named matplotlib.cbook.pts_to_poststep - imported by matplotlib.cbook, matplotlib.lines
+missing module named matplotlib.cbook.pts_to_midstep - imported by matplotlib.cbook, matplotlib.lines
+missing module named matplotlib.cbook.pts_to_prestep - imported by matplotlib.cbook, matplotlib.lines
+missing module named matplotlib.cbook.ls_mapper_r - imported by matplotlib.cbook, matplotlib.lines
+missing module named matplotlib.tri.LinearTriInterpolator - imported by matplotlib.tri, matplotlib.mlab
+missing module named matplotlib.tri.Triangulation - imported by matplotlib.tri, matplotlib.tri.trifinder, matplotlib.tri.tritools, matplotlib.tri.triinterpolate, matplotlib.mlab
+missing module named matplotlib.collections.TriMesh - imported by matplotlib.collections, matplotlib.tri.tripcolor
+missing module named matplotlib.collections.PolyCollection - imported by matplotlib.collections, matplotlib.legend, matplotlib.tri.tripcolor, matplotlib.finance
+missing module named matplotlib.collections.QuadMesh - imported by matplotlib.collections, matplotlib.backend_bases
+missing module named matplotlib.collections.RegularPolyCollection - imported by matplotlib.collections, matplotlib.legend
+missing module named matplotlib.collections.PathCollection - imported by matplotlib.collections, matplotlib.legend
+missing module named matplotlib.collections.CircleCollection - imported by matplotlib.collections, matplotlib.legend
+missing module named matplotlib.collections.LineCollection - imported by matplotlib.collections, matplotlib.legend, matplotlib.finance
+missing module named matplotlib.cbook.mkdirs - imported by matplotlib.cbook, matplotlib.finance, matplotlib.texmanager, matplotlib
+missing module named 'mpl_toolkits.natgrid'._natgrid - imported by 'mpl_toolkits.natgrid', matplotlib.mlab
+missing module named 'mpl_toolkits.natgrid' - imported by matplotlib.mlab
+missing module named _json.make_encoder - imported by _json, json.encoder
+missing module named _json.encode_basestring - imported by _json, json.encoder
+missing module named _json.encode_basestring_ascii - imported by _json, json.encoder
+missing module named _json.scanstring - imported by _json, json.decoder
+missing module named _json.make_scanner - imported by _json, json.scanner
+missing module named six.moves.zip - imported by six.moves, cycler
+missing module named dateutil.tz.tzfile - imported by dateutil.tz, dateutil.zoneinfo
+missing module named _csv.Dialect - imported by _csv, csv
+missing module named _csv.QUOTE_NONE - imported by _csv, csv
+missing module named _csv.unregister_dialect - imported by _csv, csv
+missing module named _csv.QUOTE_ALL - imported by _csv, csv
+missing module named _csv.QUOTE_NONNUMERIC - imported by _csv, csv
+missing module named _csv.Error - imported by _csv, csv
+missing module named _csv.list_dialects - imported by _csv, csv
+missing module named _csv.field_size_limit - imported by _csv, csv
+missing module named _csv.register_dialect - imported by _csv, csv
+missing module named _csv.reader - imported by _csv, csv
+missing module named _csv.QUOTE_MINIMAL - imported by _csv, csv
+missing module named _csv.writer - imported by _csv, csv
+missing module named _csv.get_dialect - imported by _csv, csv
+missing module named _csv.__version__ - imported by _csv, csv
+missing module named _csv.__doc__ - imported by _csv, csv
+missing module named matplotlib.axes.Subplot - imported by matplotlib.axes, matplotlib.pyplot
+missing module named matplotlib.artist.setp - imported by matplotlib.artist, matplotlib.pyplot
+missing module named matplotlib.artist.get - imported by matplotlib.artist, matplotlib.pyplot
+missing module named matplotlib.artist.getp - imported by matplotlib.artist, matplotlib.pyplot
+missing module named matplotlib.rc_context - imported by matplotlib, matplotlib.pyplot
+missing module named matplotlib.rcParamsDefault - imported by matplotlib, matplotlib.pyplot
+missing module named matplotlib.get_backend - imported by matplotlib, matplotlib.pyplot, matplotlib.backend_bases
+missing module named matplotlib.image.imsave - imported by matplotlib.image, matplotlib.pyplot
+missing module named matplotlib.image.imread - imported by matplotlib.image, matplotlib.pyplot
+missing module named matplotlib.gridspec.GridSpec - imported by matplotlib.gridspec, matplotlib.axes._subplots, matplotlib.pyplot
+missing module named matplotlib.gridspec.SubplotSpec - imported by matplotlib.gridspec, matplotlib.axes._subplots
+missing module named matplotlib.cbook._string_to_bool - imported by matplotlib.cbook, matplotlib.axes._base, matplotlib.pyplot
+missing module named matplotlib.cbook.is_numlike - imported by matplotlib.cbook, matplotlib.units, matplotlib.lines, matplotlib.markers, matplotlib.pyplot
+missing module named matplotlib.cbook.silent_list - imported by matplotlib.cbook, matplotlib.pylab, matplotlib.legend, matplotlib.pyplot
+missing module named matplotlib.cbook.dedent - imported by matplotlib.cbook, matplotlib.pylab, matplotlib.scale, matplotlib.pyplot, matplotlib
+missing module named matplotlib.interactive - imported by matplotlib, matplotlib.pyplot
+missing module named matplotlib.rc_params_from_file - imported by matplotlib, matplotlib.style.core
+missing module named 'tornado.template' - imported by matplotlib.backends.backend_webagg
+missing module named 'tornado.websocket' - imported by matplotlib.backends.backend_webagg
+missing module named 'tornado.ioloop' - imported by matplotlib.backends.backend_webagg
+missing module named 'tornado.web' - imported by matplotlib.backends.backend_webagg
+missing module named tornado - imported by matplotlib.backends.backend_webagg, matplotlib.backends.backend_webagg_core
+missing module named matplotlib.backend_bases.GraphicsContextBase - imported by matplotlib.backend_bases, matplotlib.backends.backend_pdf, matplotlib.backends.backend_svg, matplotlib.backends.backend_tkagg, matplotlib.backends.backend_pgf, matplotlib.backends.backend_ps, matplotlib.backends.backend_template
+missing module named matplotlib.cbook.is_writable_file_like - imported by matplotlib.cbook, matplotlib.backends.backend_pdf, matplotlib.backends.backend_svg, matplotlib.backends.backend_pgf, matplotlib.backends.backend_ps
+missing module named matplotlib._image.frombuffer - imported by matplotlib._image, matplotlib.backends.backend_mixed
+missing module named matplotlib.ttconv.convert_ttf_to_ps - imported by matplotlib.ttconv, matplotlib.backends.backend_ps
+missing module named md5.md5 - imported by md5, matplotlib.backends.backend_ps
+missing module named md5 - imported by matplotlib.backends.backend_ps
+missing module named matplotlib._windowing.GetForegroundWindow - imported by matplotlib._windowing, matplotlib.backends.windowing
+missing module named matplotlib._windowing.SetForegroundWindow - imported by matplotlib._windowing, matplotlib.backends.windowing
+missing module named matplotlib.backend_bases.NonGuiException - imported by matplotlib.backend_bases, matplotlib.figure
+missing module named matplotlib.cbook.warn_deprecated - imported by matplotlib.cbook, matplotlib.backend_bases
+missing module named matplotlib.cbook.mplDeprecation - imported by matplotlib.cbook, matplotlib.artist, matplotlib.axes._axes, matplotlib.axes._subplots, matplotlib.backend_bases, matplotlib
+missing module named matplotlib.is_interactive - imported by matplotlib, matplotlib.backend_bases
+missing module named matplotlib.transforms.Bbox - imported by matplotlib.transforms, matplotlib.path, matplotlib.artist, matplotlib.text, matplotlib.lines, matplotlib.image, matplotlib.legend, matplotlib.offsetbox, matplotlib.table, matplotlib.projections.geo, matplotlib.projections.polar, matplotlib.tight_layout, matplotlib.tight_bbox, matplotlib.figure, matplotlib.backends.backend_agg, matplotlib.backend_bases, matplotlib.backends.backend_template
+missing module named matplotlib.transforms.Affine2D - imported by matplotlib.transforms, matplotlib.path, matplotlib.text, matplotlib.markers, matplotlib.projections.geo, matplotlib.projections.polar, matplotlib.tight_bbox, matplotlib.backends.backend_pdf, matplotlib.backends.backend_svg, matplotlib.figure, matplotlib.textpath, matplotlib.backend_bases, matplotlib.finance, matplotlib.backends.backend_ps
+missing module named matplotlib.transforms.BboxTransformTo - imported by matplotlib.transforms, matplotlib.path, matplotlib.text, matplotlib.legend, matplotlib.projections.geo, matplotlib.projections.polar, matplotlib.figure
+missing module named matplotlib.text.Text - imported by matplotlib.text, matplotlib.table, matplotlib.pyplot, matplotlib.figure, matplotlib.backends.backend_pgf, matplotlib.backends.backend_ps
+missing module named matplotlib.text._process_text_args - imported by matplotlib.text, matplotlib.figure
+missing module named matplotlib.cbook._InstanceMethodPickler - imported by matplotlib.cbook, matplotlib.offsetbox
+missing module named matplotlib.patches.bbox_artist - imported by matplotlib.patches, matplotlib.offsetbox
+missing module named matplotlib.image.BboxImage - imported by matplotlib.image, matplotlib.offsetbox
+missing module named matplotlib.text._AnnotationBase - imported by matplotlib.text, matplotlib.offsetbox
+missing module named matplotlib.patches.FancyArrowPatch - imported by matplotlib.patches, matplotlib.text, matplotlib.offsetbox
+missing module named matplotlib.patches.FancyBboxPatch - imported by matplotlib.patches, matplotlib.text, matplotlib.legend, matplotlib.offsetbox
+missing module named UserDict.DictMixin - imported by UserDict, pytz.lazy
+missing module named UserDict - imported by pytz.lazy
+missing module named matplotlib.patches.Rectangle - imported by matplotlib.patches, matplotlib.text, matplotlib.legend, matplotlib.legend_handler, matplotlib.table, matplotlib.pyplot, matplotlib.figure, matplotlib.widgets, matplotlib.artist, matplotlib.finance
+missing module named matplotlib.patches.CirclePolygon - imported by matplotlib.patches, matplotlib.quiver
+missing module named matplotlib.patches.Patch - imported by matplotlib.patches, matplotlib.legend, matplotlib.artist
+missing module named matplotlib.patches.Shadow - imported by matplotlib.patches, matplotlib.legend
+missing module named matplotlib.cbook.safezip - imported by matplotlib.cbook, matplotlib.legend
+missing module named matplotlib.cbook.is_sequence_of_strings - imported by matplotlib.cbook, matplotlib.blocking_input
+missing module named matplotlib.axes.Axes - imported by matplotlib.axes, matplotlib.legend, matplotlib.projections.geo, matplotlib.projections.polar, matplotlib.pyplot, matplotlib.figure
+missing module named matplotlib.axes.subplot_class_factory - imported by matplotlib.axes, matplotlib.figure
+missing module named matplotlib.axes.SubplotBase - imported by matplotlib.axes, matplotlib.gridspec, matplotlib.figure
+missing module named matplotlib.cbook.get_label - imported by matplotlib.cbook, matplotlib.axes._base, matplotlib
+missing module named matplotlib.cbook._check_1d - imported by matplotlib.cbook, matplotlib.axes._base
+missing module named matplotlib.cbook.index_of - imported by matplotlib.cbook, matplotlib.axes._base
+missing module named matplotlib.cbook.delete_masked_points - imported by matplotlib.cbook, matplotlib.quiver
+missing module named matplotlib.cbook.STEP_LOOKUP_MAP - imported by matplotlib.cbook, matplotlib.axes._axes
+missing module named matplotlib.unpack_labeled_data - imported by matplotlib, matplotlib.axes._axes
+missing module named matplotlib.figure.figaspect - imported by matplotlib.figure, matplotlib.pyplot
+missing module named matplotlib.figure.SubplotParams - imported by matplotlib.figure, matplotlib.gridspec
+missing module named matplotlib.cbook.iterable - imported by matplotlib.cbook, matplotlib.pylab, matplotlib.units, matplotlib.finance, matplotlib.lines, matplotlib.markers, matplotlib.figure, matplotlib.axes._axes, matplotlib.legend, matplotlib.axes._base, matplotlib.testing
+missing module named matplotlib.cbook.Stack - imported by matplotlib.cbook, matplotlib.figure
+missing module named matplotlib.pylab.figure - imported by matplotlib.pylab, matplotlib.cbook
+missing module named matplotlib.cbook.flatten - imported by matplotlib.cbook, matplotlib.pylab
+missing module named matplotlib.cbook.exception_to_str - imported by matplotlib.cbook, matplotlib.pylab
+missing module named matplotlib.artist.Artist - imported by matplotlib.artist, matplotlib.text, matplotlib.lines, matplotlib.figure, matplotlib.legend, matplotlib.table, matplotlib.pyplot
+missing module named matplotlib.artist.allow_rasterization - imported by matplotlib.artist, matplotlib.patches, matplotlib.lines, matplotlib.text, matplotlib.figure, matplotlib.image, matplotlib.legend, matplotlib.quiver, matplotlib.table, matplotlib.axis, matplotlib.spines, matplotlib.axes._base, matplotlib.collections
+missing module named matplotlib.__version__ - imported by matplotlib, matplotlib.figure, matplotlib.backends.backend_pdf, matplotlib.backends.backend_svg, matplotlib.backends.backend_ps
+missing module named matplotlib.rcParams - imported by matplotlib, matplotlib.ticker, matplotlib.path, matplotlib.artist, matplotlib.font_manager, matplotlib.text, matplotlib.lines, matplotlib.markers, matplotlib.textpath, matplotlib.mathtext, matplotlib.backends.backend_agg, matplotlib.figure, matplotlib.image, matplotlib.legend, matplotlib.offsetbox, matplotlib.axis, matplotlib.pyplot, matplotlib.backends.backend_pdf, matplotlib.dviread, matplotlib.backends.backend_svg, matplotlib.backends.backend_webagg, matplotlib.texmanager, matplotlib.backend_bases, matplotlib.backend_tools, matplotlib.testing, matplotlib.backends.qt_compat, matplotlib.backends.windowing, matplotlib.backends.backend_pgf, matplotlib.backends.backend_ps
+missing module named matplotlib.backends.backend_qt4agg.NavigationToolbar2QTAgg - imported by matplotlib.backends.backend_qt4agg, pyqtgraph.widgets.MatplotlibWidget
+missing module named 'IPython.utils' - imported by matplotlib
+missing module named matplotlib.rcdefaults - imported by matplotlib, matplotlib.testing
+missing module named matplotlib.use - imported by matplotlib, matplotlib.testing
+missing module named mock - imported by matplotlib
+missing module named numpy.nanmax - imported by numpy, pyqtgraph.imageview.ImageView
+missing module named numpy.nanmin - imported by numpy, pyqtgraph.imageview.ImageView
+missing module named bottleneck.nanmax - imported by bottleneck, pyqtgraph.imageview.ImageView
+missing module named bottleneck.nanmin - imported by bottleneck, pyqtgraph.imageview.ImageView
+missing module named bottleneck - imported by pyqtgraph.imageview.ImageView
+missing module named metaarray - imported by pyqtgraph.graphicsItems.PlotItem.PlotItem, pyqtgraph.widgets.DataTreeWidget, pyqtgraph.widgets.TableWidget
+missing module named ordereddict.OrderedDict - imported by ordereddict, pyqtgraph.pgcollections
+missing module named ordereddict - imported by pyqtgraph.pgcollections
+missing module named pyqtgraph.graphicsItems.ViewBox.ViewBox.ViewBox - imported by pyqtgraph.graphicsItems.ViewBox.ViewBox, pyqtgraph.graphicsItems.ViewBox.ViewBoxMenu, pyqtgraph.graphicsItems.ViewBox
+missing module named pyqtgraph.graphicsItems.GraphicsObject.GraphicsObject - imported by pyqtgraph.graphicsItems.GraphicsObject, pyqtgraph.graphicsItems.GradientEditorItem, pyqtgraph.graphicsItems.ItemGroup, pyqtgraph.graphicsItems.PlotDataItem, pyqtgraph.graphicsItems.PlotCurveItem, pyqtgraph.graphicsItems.ScatterPlotItem, pyqtgraph.graphicsItems.ButtonItem, pyqtgraph.graphicsItems.InfiniteLine, pyqtgraph.graphicsItems.UIGraphicsItem, pyqtgraph.graphicsItems.GraphItem, pyqtgraph.graphicsItems.ROI, pyqtgraph.graphicsItems.BarGraphItem, pyqtgraph.graphicsItems.ImageItem, pyqtgraph.graphicsItems.CurvePoint, pyqtgraph.graphicsItems.ErrorBarItem
+missing module named pyqtgraph.graphicsItems.GraphicsItem.GraphicsItem - imported by pyqtgraph.graphicsItems.GraphicsItem, pyqtgraph.graphicsItems.GraphicsWidget, pyqtgraph.graphicsItems.ScatterPlotItem, pyqtgraph.graphicsItems.GraphicsObject
+missing module named OpenGL.error._ErrorChecker - imported by OpenGL.error, OpenGL.raw.GL._errors
+missing module named OpenGL.platform.PLATFORM - imported by OpenGL.platform, OpenGL.raw.GL._types, OpenGL.GLU.quadrics, OpenGL.raw.GL._errors, OpenGL.GLU.tess, OpenGL.GLU.glunurbs
+missing module named OpenGL.GLU.GLU_EXTENSIONS - imported by OpenGL.GLU, OpenGL.extensions
+missing module named OpenGL.GLU.gluGetString - imported by OpenGL.GLU, OpenGL.extensions
+missing module named OpenGL.GLU.GLU_VERSION - imported by OpenGL.GLU, OpenGL.extensions
+missing module named OpenGL.GLU.gluErrorString - imported by OpenGL.GLU, OpenGL.error
+missing module named 'OpenGL_accelerate.wrapper'.returnPyArgument - imported by 'OpenGL_accelerate.wrapper', OpenGL.converters
+missing module named 'OpenGL_accelerate.wrapper'.returnCArgument - imported by 'OpenGL_accelerate.wrapper', OpenGL.converters
+missing module named 'OpenGL_accelerate.arraydatatype'.Output - imported by 'OpenGL_accelerate.arraydatatype', OpenGL.converters
+missing module named 'OpenGL_accelerate.arraydatatype'.SizedOutput - imported by 'OpenGL_accelerate.arraydatatype', OpenGL.converters
+missing module named 'OpenGL_accelerate.arraydatatype'.SizedOutputOrInput - imported by 'OpenGL_accelerate.arraydatatype', OpenGL.converters
+missing module named 'OpenGL_accelerate.arraydatatype'.OutputOrInput - imported by 'OpenGL_accelerate.arraydatatype', OpenGL.converters
+missing module named 'OpenGL_accelerate.arraydatatype' - imported by OpenGL.arrays.arraydatatype, OpenGL.converters, OpenGL.arrays.arrayhelpers
+missing module named 'OpenGL_accelerate.arraydatatype'.AsArrayTyped - imported by 'OpenGL_accelerate.arraydatatype', OpenGL.arrays.arrayhelpers
+missing module named 'OpenGL_accelerate.arraydatatype'.AsArrayTypedSize - imported by 'OpenGL_accelerate.arraydatatype', OpenGL.arrays.arrayhelpers
+missing module named 'OpenGL_accelerate.arraydatatype'.AsArrayOfType - imported by 'OpenGL_accelerate.arraydatatype', OpenGL.arrays.arrayhelpers
+missing module named 'OpenGL_accelerate.arraydatatype'.AsArrayTypedSizeChecked - imported by 'OpenGL_accelerate.arraydatatype', OpenGL.arrays.arrayhelpers
+missing module named 'OpenGL_accelerate.arraydatatype'.ArrayDatatype - imported by 'OpenGL_accelerate.arraydatatype', OpenGL.arrays.arraydatatype
+missing module named 'OpenGL_accelerate.wrapper'.CallFuncPyConverter - imported by 'OpenGL_accelerate.wrapper', OpenGL.converters
+missing module named 'OpenGL_accelerate.wrapper'.getPyArgsName - imported by 'OpenGL_accelerate.wrapper', OpenGL.converters
+missing module named 'OpenGL_accelerate.wrapper'.DefaultCConverter - imported by 'OpenGL_accelerate.wrapper', OpenGL.converters
+missing module named 'OpenGL_accelerate.wrapper' - imported by OpenGL.converters, OpenGL.arrays.arrayhelpers, OpenGL.wrapper
+missing module named 'OpenGL_accelerate.wrapper'.CArgCalculator - imported by 'OpenGL_accelerate.wrapper', OpenGL.wrapper
+missing module named 'OpenGL_accelerate.wrapper'.PyArgCalculator - imported by 'OpenGL_accelerate.wrapper', OpenGL.wrapper
+missing module named 'OpenGL_accelerate.wrapper'.CArgumentCalculator - imported by 'OpenGL_accelerate.wrapper', OpenGL.wrapper
+missing module named 'OpenGL_accelerate.wrapper'.Wrapper - imported by 'OpenGL_accelerate.wrapper', OpenGL.wrapper
+missing module named 'OpenGL_accelerate.wrapper'.returnPyArgumentIndex - imported by 'OpenGL_accelerate.wrapper', OpenGL.arrays.arrayhelpers
+missing module named OpenGL_accelerate - imported by OpenGL.acceleratesupport
+missing module named OpenGL.platform.createBaseFunction - imported by OpenGL.platform, OpenGL.GLU.quadrics, OpenGL.GLU.tess
+missing module named OpenGL.raw.GL.VERSION.GL_1_1.glGetIntegerv - imported by OpenGL.raw.GL.VERSION.GL_1_1, OpenGL.extensions
+missing module named OpenGL.raw.GL.VERSION.GL_1_1.glGetError - imported by OpenGL.raw.GL.VERSION.GL_1_1, OpenGL.extensions
+missing module named OpenGL.raw.GL.VERSION.GL_1_1.glGetString - imported by OpenGL.raw.GL.VERSION.GL_1_1, OpenGL.extensions
+missing module named 'OpenGL_accelerate.latebind'.Curry - imported by 'OpenGL_accelerate.latebind', OpenGL.latebind
+missing module named 'OpenGL_accelerate.latebind'.LateBind - imported by 'OpenGL_accelerate.latebind', OpenGL.latebind, OpenGL.wrapper
+missing module named 'OpenGL_accelerate.latebind' - imported by OpenGL.latebind, OpenGL.wrapper
+missing module named OpenGL.arrays.arraydatatype.ArrayDatatype - imported by OpenGL.arrays.arraydatatype, OpenGL.arrays.formathandler, OpenGL.GL.VERSION.GL_2_0, OpenGL.arrays.vbo
+missing module named OpenGL.arrays.ArrayDatatype - imported by OpenGL.arrays, OpenGL.GL.VERSION.GL_1_5, OpenGL.GL.ARB.vertex_buffer_object, OpenGL.platform.baseplatform
+missing module named numpy.frombuffer - imported by numpy, OpenGL.arrays.vbo
+missing module named 'OpenGL_accelerate.vbo'.VBOOffset - imported by 'OpenGL_accelerate.vbo', OpenGL.arrays.vbo
+missing module named 'OpenGL_accelerate.vbo'.VBOOffsetHandler - imported by 'OpenGL_accelerate.vbo', OpenGL.arrays.vbo
+missing module named 'OpenGL_accelerate.vbo'.VBO - imported by 'OpenGL_accelerate.vbo', OpenGL.arrays.vbo
+missing module named 'OpenGL_accelerate.vbo'.VBOHandler - imported by 'OpenGL_accelerate.vbo', OpenGL.arrays.vbo
+missing module named 'OpenGL_accelerate.vbo' - imported by OpenGL.arrays.vbo
+missing module named OpenGL.arrays.GLintArray - imported by OpenGL.arrays, OpenGL.GL.ARB.sync, OpenGL.GL.ARB.ES2_compatibility
+missing module named OpenGL.GL.glGetIntegerv - imported by OpenGL.GL, OpenGL.raw.GL._lookupint, OpenGL.GL.pointers
+missing module named 'OpenGL_accelerate.errorchecker'._ErrorChecker - imported by 'OpenGL_accelerate.errorchecker', OpenGL.error
+missing module named 'OpenGL_accelerate.errorchecker' - imported by OpenGL.error
+missing module named 'OpenGL_accelerate.numpy_formathandler'.NumpyHandler - imported by 'OpenGL_accelerate.numpy_formathandler', OpenGL.arrays.numpymodule
+missing module named 'OpenGL_accelerate.numpy_formathandler' - imported by OpenGL.arrays.numpymodule
+missing module named 'OpenGL_accelerate.nones_formathandler'.NoneHandler - imported by 'OpenGL_accelerate.nones_formathandler', OpenGL.arrays.nones
+missing module named 'OpenGL_accelerate.nones_formathandler' - imported by OpenGL.arrays.nones
+missing module named 'OpenGL_accelerate.buffers_formathandler'.MemoryviewHandler - imported by 'OpenGL_accelerate.buffers_formathandler', OpenGL.arrays.buffers
+missing module named 'OpenGL_accelerate.buffers_formathandler' - imported by OpenGL.arrays.buffers
+missing module named h5py - imported by pyqtgraph.exporters.HDF5Exporter, pyqtgraph.metaarray.MetaArray
+missing module named xml.dom.minidom._append_child - imported by xml.dom.minidom, xml.dom.expatbuilder
+missing module named xml.dom.minidom._set_attribute_node - imported by xml.dom.minidom, xml.dom.expatbuilder
+missing module named pyqtgraph.PlotItem - imported by pyqtgraph, pyqtgraph.exporters.Matplotlib, pyqtgraph.exporters.CSVExporter, pyqtgraph.exporters.HDF5Exporter
+missing module named pyqtgraph._connectCleanup - imported by pyqtgraph, pyqtgraph.widgets.GraphicsView
+missing module named 'scipy.weave' - imported by pyqtgraph.functions
+missing module named 'scipy.ndimage' - imported by pyqtgraph.functions
+missing module named pyqtgraph.setConfigOptions - imported by pyqtgraph, pyqtgraph.functions
+missing module named pyqtgraph.getConfigOption - imported by pyqtgraph, pyqtgraph.functions, pyqtgraph.widgets.GraphicsView, pyqtgraph.graphicsItems.ViewBox.ViewBox, pyqtgraph.graphicsItems.PlotCurveItem, pyqtgraph.graphicsItems.ScatterPlotItem, pyqtgraph.graphicsItems.PlotDataItem, pyqtgraph.graphicsItems.AxisItem, pyqtgraph.graphicsItems.LabelItem, pyqtgraph.graphicsItems.ScaleBar, pyqtgraph.graphicsItems.GraphItem, pyqtgraph.graphicsItems.BarGraphItem, pyqtgraph.graphicsItems.ErrorBarItem, pyqtgraph.widgets.ScatterPlotWidget, pyqtgraph.console.Console
+missing module named pysideuic - imported by pyqtgraph.Qt
+missing module named numpy.distutils.misc_util.get_shared_lib_extension - imported by numpy.distutils.misc_util, numpy.distutils.system_info, numpy.distutils.fcompiler, numpy.ctypeslib
+missing module named ConfigParser.RawConfigParser - imported by ConfigParser, numpy.distutils.system_info, numpy.distutils.npy_pkg_config
+missing module named ConfigParser.NoOptionError - imported by ConfigParser, numpy.distutils.system_info, numpy.distutils.npy_pkg_config
+missing module named ConfigParser - imported by numpy.distutils.system_info, numpy.distutils.npy_pkg_config
+missing module named distutils.dist.Distribution - imported by distutils.dist, distutils.cmd, distutils.core, numpy.distutils.system_info, numpy.distutils.environment, numpy.distutils.fcompiler
+missing module named distutils.core.gen_usage - imported by distutils.core, distutils.dist
+missing module named numpy.distutils.system_info.get_info - imported by numpy.distutils.system_info, numpy.f2py.f2py2e, numpy.distutils.misc_util
+missing module named 'numpy_distutils.cpuinfo'.cpuinfo - imported by 'numpy_distutils.cpuinfo', numpy.f2py.diagnose
+missing module named 'numpy_distutils.cpuinfo' - imported by numpy.f2py.diagnose
+missing module named 'numpy_distutils.command'.cpuinfo - imported by 'numpy_distutils.command', numpy.f2py.diagnose
+missing module named 'numpy_distutils.fcompiler' - imported by numpy.f2py.diagnose
+missing module named setuptools_svn.svn_utils - imported by setuptools_svn, setuptools.command.egg_info
+missing module named setuptools_svn - imported by setuptools.command.egg_info
+missing module named setuptools.extension.Library - imported by setuptools.extension, setuptools.command.bdist_egg
+missing module named 'setuptools.extern.six.moves'.winreg - imported by 'setuptools.extern.six.moves', setuptools.msvc
+missing module named 'setuptools.extern.six.moves'.filterfalse - imported by 'setuptools.extern.six.moves', setuptools.msvc
+missing module named setuptools.setup - imported by setuptools, setuptools.command.easy_install, numpy.distutils.core
+missing module named wincertstore.CertFile - imported by wincertstore, setuptools.ssl_support
+missing module named wincertstore - imported by setuptools.ssl_support
+missing module named 'backports.ssl_match_hostname'.match_hostname - imported by 'backports.ssl_match_hostname', setuptools.ssl_support
+missing module named 'backports.ssl_match_hostname' - imported by setuptools.ssl_support
+missing module named backports.CertificateError - imported by backports, setuptools.ssl_support
+missing module named backports - imported by setuptools.ssl_support
+missing module named 'setuptools.extern.six.moves'.urllib - imported by 'setuptools.extern.six.moves', setuptools.package_index, setuptools.ssl_support
+missing module named 'setuptools.extern.six.moves'.http_client - imported by 'setuptools.extern.six.moves', setuptools.package_index, setuptools.ssl_support
+missing module named setuptools.command.easy_install.samefile - imported by setuptools.command.easy_install, setuptools.package_index
+missing module named setuptools.sandbox.SandboxViolation - imported by setuptools.sandbox
+missing module named setuptools.sandbox.UnpickleableException - imported by setuptools.sandbox
+missing module named 'setuptools.extern.six.moves'.builtins - imported by 'setuptools.extern.six.moves', setuptools.sandbox
+missing module named 'setuptools.extern.six.moves'.configparser - imported by 'setuptools.extern.six.moves', setuptools.command.easy_install, setuptools.command.setopt, setuptools.package_index
+missing module named setuptools.dist.Distribution - imported by setuptools.dist, setuptools.command.easy_install, setuptools
+missing module named 'setuptools.extern.six'.map - imported by 'setuptools.extern.six', setuptools, setuptools.extension
+missing module named 'setuptools.extern.six' - imported by setuptools, setuptools.extension
+missing module named 'setuptools.extern.six'.filterfalse - imported by 'setuptools.extern.six', setuptools
+missing module named setuptools.Command - imported by setuptools, setuptools.command.easy_install, setuptools.command.setopt, setuptools.command.bdist_egg, setuptools.command.egg_info
+missing module named 'setuptools.extern.six.moves'.map - imported by 'setuptools.extern.six.moves', setuptools.dist, setuptools.command.easy_install, setuptools.sandbox, setuptools.package_index, setuptools.ssl_support, setuptools.command.egg_info
+missing module named 'setuptools.extern.six.moves' - imported by setuptools.dist, setuptools.command.easy_install, setuptools.sandbox, setuptools.command.setopt, setuptools.package_index, setuptools.ssl_support, setuptools.command.egg_info, setuptools.msvc
+missing module named setuptools.extern.six - imported by setuptools.extern, setuptools.dist, setuptools.depends, setuptools.command.easy_install, setuptools.sandbox, setuptools.package_index, setuptools.command.bdist_egg, setuptools.command.egg_info, setuptools.command.sdist, setuptools.unicode_utils, setuptools.command.develop
+missing module named numpy.distutils.fcompiler.show_fcompilers - imported by numpy.distutils.fcompiler, numpy.distutils.command.config_compiler
+missing module named 'numpy_distutils.command' - imported by numpy.f2py.diagnose
+missing module named numpy_distutils - imported by numpy.f2py.diagnose
+missing module named numpy.f2py.auxfuncs.isintent_in - imported by numpy.f2py.auxfuncs, numpy.f2py.cb_rules, numpy.f2py.func2subr
+missing module named numpy.f2py.auxfuncs.isarray - imported by numpy.f2py.auxfuncs, numpy.f2py.cb_rules, numpy.f2py.rules
+missing module named numpy.f2py.auxfuncs.isrequired - imported by numpy.f2py.auxfuncs, numpy.f2py.cb_rules, numpy.f2py.rules
+missing module named numpy.f2py.auxfuncs.isintent_hide - imported by numpy.f2py.auxfuncs, numpy.f2py.cb_rules, numpy.f2py.rules, numpy.f2py.common_rules
+missing module named numpy.f2py.auxfuncs.debugcapi - imported by numpy.f2py.auxfuncs, numpy.f2py.cb_rules, numpy.f2py.rules
+missing module named numpy.f2py.auxfuncs.outmess - imported by numpy.f2py.auxfuncs, numpy.f2py.cb_rules, numpy.f2py.rules, numpy.f2py.common_rules, numpy.f2py.func2subr, numpy.f2py.use_rules
+missing module named numpy.f2py.auxfuncs.applyrules - imported by numpy.f2py.auxfuncs, numpy.f2py.cb_rules, numpy.f2py.rules, numpy.f2py.use_rules
+missing module named numpy.f2py.auxfuncs.dictappend - imported by numpy.f2py.auxfuncs, numpy.f2py.cb_rules, numpy.f2py.rules, numpy.f2py.use_rules
+missing module named numpy.f2py.auxfuncs.isintent_nothide - imported by numpy.f2py.auxfuncs, numpy.f2py.cb_rules, numpy.f2py.rules
+missing module named numpy.f2py.auxfuncs.stripcomma - imported by numpy.f2py.auxfuncs, numpy.f2py.cb_rules, numpy.f2py.rules
+missing module named numpy.f2py.auxfuncs.getargs - imported by numpy.f2py.auxfuncs, numpy.f2py.cb_rules
+missing module named numpy.f2py.auxfuncs.l_and - imported by numpy.f2py.auxfuncs, numpy.f2py.cb_rules, numpy.f2py.rules
+missing module named numpy.f2py.auxfuncs.iscomplexarray - imported by numpy.f2py.auxfuncs, numpy.f2py.cb_rules, numpy.f2py.rules
+missing module named numpy.f2py.auxfuncs.isintent_inout - imported by numpy.f2py.auxfuncs, numpy.f2py.cb_rules, numpy.f2py.rules
+missing module named numpy.f2py.auxfuncs.hasnote - imported by numpy.f2py.auxfuncs, numpy.f2py.cb_rules, numpy.f2py.rules, numpy.f2py.common_rules, numpy.f2py.use_rules
+missing module named numpy.f2py.auxfuncs.isoptional - imported by numpy.f2py.auxfuncs, numpy.f2py.cb_rules, numpy.f2py.rules
+missing module named numpy.f2py.auxfuncs.isstringfunction - imported by numpy.f2py.auxfuncs, numpy.f2py.cb_rules, numpy.f2py.rules
+missing module named numpy.f2py.auxfuncs.isintent_out - imported by numpy.f2py.auxfuncs, numpy.f2py.cb_rules, numpy.f2py.rules, numpy.f2py.func2subr
+missing module named numpy.f2py.auxfuncs.iscomplex - imported by numpy.f2py.auxfuncs, numpy.f2py.cb_rules, numpy.f2py.rules
+missing module named numpy.f2py.auxfuncs.iscomplexfunction - imported by numpy.f2py.auxfuncs, numpy.f2py.cb_rules, numpy.f2py.rules
+missing module named numpy.f2py.auxfuncs.l_not - imported by numpy.f2py.auxfuncs, numpy.f2py.cb_rules, numpy.f2py.rules
+missing module named numpy.f2py.auxfuncs.issubroutine - imported by numpy.f2py.auxfuncs, numpy.f2py.cb_rules, numpy.f2py.rules, numpy.f2py.func2subr
+missing module named numpy.f2py.auxfuncs.isstring - imported by numpy.f2py.auxfuncs, numpy.f2py.cb_rules, numpy.f2py.rules
+missing module named numpy.f2py.auxfuncs.isintent_c - imported by numpy.f2py.auxfuncs, numpy.f2py.cb_rules, numpy.f2py.rules
+missing module named numpy.f2py.auxfuncs.l_or - imported by numpy.f2py.auxfuncs, numpy.f2py.cb_rules, numpy.f2py.rules
+missing module named numpy.f2py.auxfuncs.errmess - imported by numpy.f2py.auxfuncs, numpy.f2py.cb_rules, numpy.f2py.rules
+missing module named numpy.f2py.auxfuncs.replace - imported by numpy.f2py.auxfuncs, numpy.f2py.cb_rules, numpy.f2py.rules
+missing module named numpy.f2py.auxfuncs.isscalar - imported by numpy.f2py.auxfuncs, numpy.f2py.cb_rules, numpy.f2py.rules, numpy.f2py.func2subr
+missing module named numpy.f2py.auxfuncs.throw_error - imported by numpy.f2py.auxfuncs, numpy.f2py.cb_rules
+missing module named numpy.f2py.auxfuncs.isfunction - imported by numpy.f2py.auxfuncs, numpy.f2py.cb_rules, numpy.f2py.rules, numpy.f2py.func2subr
+missing module named numpy.f2py.crackfortran.markoutercomma - imported by numpy.f2py.crackfortran, numpy.f2py.capi_maps
+missing module named __svn_version__.version - imported by __svn_version__, numpy.f2py.__version__
+missing module named __svn_version__ - imported by numpy.f2py.__version__
+missing module named numpy.distutils.system_info.show_all - imported by numpy.distutils.system_info, numpy.f2py.f2py2e
+missing module named numarray - imported by numpy.distutils.system_info
+missing module named Numeric - imported by numpy.distutils.system_info
+missing module named commands.getstatusoutput - imported by commands, numpy.distutils.cpuinfo
+missing module named commands - imported by numpy.distutils.cpuinfo
+missing module named _curses - imported by curses, curses.has_key
+missing module named numpy.distutils.core.get_distribution - imported by numpy.distutils.core, numpy.distutils.fcompiler, numpy.distutils.misc_util
+missing module named numpy.distutils.misc_util.get_lib_source_files - imported by numpy.distutils.misc_util, numpy.distutils.command.build_clib
+missing module named numpy.distutils.misc_util.get_script_files - imported by numpy.distutils.misc_util, numpy.distutils.command.build_scripts
+missing module named numpy.distutils.misc_util.msvc_version - imported by numpy.distutils.misc_util, numpy.distutils.command.build_ext
+missing module named numpy.distutils.misc_util.has_f_sources - imported by numpy.distutils.misc_util, numpy.distutils.command.build_ext, numpy.distutils.command.build_clib
+missing module named numpy.distutils.misc_util.has_cxx_sources - imported by numpy.distutils.misc_util, numpy.distutils.command.build_ext, numpy.distutils.command.build_clib
+missing module named numpy.distutils.misc_util.filter_sources - imported by numpy.distutils.misc_util, numpy.distutils.command.build_ext, numpy.distutils.command.build_clib
+missing module named numpy.distutils.misc_util.get_ext_source_files - imported by numpy.distutils.misc_util, numpy.distutils.command.build_ext
+missing module named numpy.distutils.misc_util.get_numpy_include_dirs - imported by numpy.distutils.misc_util, numpy.distutils.command.build_ext, numpy.distutils.command.build_clib
+missing module named numpy.distutils.misc_util.dict_append - imported by numpy.distutils.misc_util, numpy.f2py.f2py2e
+missing module named numpy.distutils.misc_util.get_data_files - imported by numpy.distutils.misc_util, numpy.distutils.command.build_src, numpy.distutils.command.sdist, numpy.distutils.core
+missing module named numpy.distutils.misc_util.appendpath - imported by numpy.distutils.misc_util, numpy.distutils.command.build_src
+missing module named numpy.distutils.misc_util.get_cmd - imported by numpy.distutils.misc_util, numpy.distutils.command.build_src, numpy.distutils.command.install_clib
+missing module named numpy.distutils.misc_util.fortran_ext_match - imported by numpy.distutils.misc_util, numpy.distutils.command.build_src
+missing module named numpy.distutils.misc_util.all_strings - imported by numpy.distutils.misc_util, numpy.distutils.fcompiler, numpy.distutils.command.build_clib
+missing module named numpy.distutils.misc_util.get_build_architecture - imported by numpy.distutils.misc_util, numpy.distutils.mingw32ccompiler, numpy.distutils.command.build_ext
+missing module named numpy.distutils.misc_util.msvc_runtime_library - imported by numpy.distutils.misc_util, numpy.distutils.mingw32ccompiler
+missing module named numpy.distutils.misc_util.is_string - imported by numpy.distutils.misc_util, numpy.distutils.system_info, numpy.distutils.fcompiler, numpy.distutils.command.build_src, numpy.distutils.command.build_py, numpy.distutils.command.build_scripts, numpy.distutils.core, numpy.distutils.log
+missing module named numpy.distutils.misc_util.is_sequence - imported by numpy.distutils.misc_util, numpy.distutils.exec_command, numpy.distutils.system_info, numpy.distutils.fcompiler, numpy.distutils.command.build_src, numpy.distutils.command.build_ext, numpy.distutils.command.build_clib, numpy.distutils.core, numpy.distutils.log, numpy.distutils.ccompiler
+missing module named numpy.distutils.misc_util.make_temp_file - imported by numpy.distutils.misc_util, numpy.distutils.exec_command, numpy.distutils.fcompiler
+missing module named numpy.intp - imported by numpy, numpy.ctypeslib
+missing module named numpy.integer - imported by numpy, numpy.ctypeslib
+missing module named numpy.deprecate - imported by numpy, numpy.ctypeslib
