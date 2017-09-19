@@ -1,3 +1,4 @@
+# EMG Control Prothesys
 Software developed to capture, process and classify EMG signals through an MLP neural network. 
 After training, the network is able to operate by controlling a simulated virtual prosthesis in Blender
 
