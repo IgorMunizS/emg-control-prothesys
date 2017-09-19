@@ -1,8 +1,7 @@
-# EMG Control Prothesys
-Programa desenvolvido para capturar, processar e classificar sinais EMG através de uma rede neural
-do tipo MLP. Após o treinamento, a rede é capaz de operar controlando uma prótese virtual simulada no Blender
+Software developed to capture, process and classify EMG signals through an MLP neural network. 
+After training, the network is able to operate by controlling a simulated virtual prosthesis in Blender
 
-Mais detalhes:
-https://drive.google.com/file/d/0B6uYcwWjcsKNR1lFVXhOb1ZBekE/view
+More details in Porguese (Br): https://drive.google.com/file/d/0B6uYcwWjcsKNR1lFVXhOb1ZBekE/view 
 https://www.youtube.com/watch?v=JOJdmyMxCGE
 
+Autor: Igor Muniz Soares / Luan Mota Barbosa Noleto
